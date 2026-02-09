@@ -1,0 +1,3952 @@
+{
+  "eedi_787": {
+    "0": {
+      "question": "Which of the following correctly shows the place-value decomposition of the number 358?",
+      "answer": "300 + 50 + 8",
+      "distractors": [
+        "300 + 5 + 8",
+        "30 + 50 + 8",
+        "300 + 5 + 80"
+      ]
+    },
+    "1": {
+      "question": "Which expression correctly applies the distributive property of multiplication over addition to 5 × (30 + 4 + 2)?",
+      "answer": "5 × 30 + 5 × 4 + 5 × 2",
+      "distractors": [
+        "5 × 30 + 4 + 2",
+        "5 × 30 + 5 × 4 + 2",
+        "5 × (30 + 4) + 2"
+      ]
+    },
+    "2": {
+      "question": "What is the result of 600 × 5?",
+      "answer": "3000",
+      "distractors": [
+        "300",
+        "6005",
+        "30000"
+      ]
+    },
+    "3": {
+      "question": "What is the result of 30 × 6 using the method of multiplying the tens-place digit by the single-digit and attaching one zero?",
+      "answer": "180",
+      "distractors": [
+        "36",
+        "18",
+        "306"
+      ]
+    },
+    "4": {
+      "question": "What is the product of 7 × 7?",
+      "answer": "49",
+      "distractors": [
+        "42",
+        "56",
+        "35"
+      ]
+    },
+    "5": {
+      "question": "After calculating each partial product in a multiplication problem, what is the next step to find the final product?",
+      "answer": "Add all the partial products together",
+      "distractors": [
+        "Multiply the partial products together",
+        "Subtract the partial products from each other",
+        "Divide the partial products by the multiplier"
+      ]
+    },
+    "6": {
+      "question": "What is the result of adding 2800 + 140 + 49 using column addition with carrying?",
+      "answer": "2989",
+      "distractors": [
+        "2949",
+        "2849",
+        "2999"
+      ]
+    },
+    "7": {
+      "question": "Which of the following expressions is equivalent to 2800 + 140 + 49?",
+      "answer": "2949",
+      "distractors": [
+        "28149",
+        "2800 + 149",
+        "2800 + 140 + 40"
+      ]
+    },
+    "8": {
+      "question": "What is the product of 25 × 40?",
+      "answer": "1000",
+      "distractors": [
+        "100",
+        "10000",
+        "250"
+      ]
+    }
+  },
+  "eedi_282": {
+    "0": {
+      "question": "What does the phrase 'one quarter of X' mean mathematically?",
+      "answer": "Multiply X by 1/4",
+      "distractors": [
+        "Divide X by 4",
+        "Add 1/4 to X",
+        "Subtract 1/4 from X"
+      ]
+    },
+    "1": {
+      "question": "Which operation is typically represented by the word 'of' in arithmetic problems?",
+      "answer": "Multiplication",
+      "distractors": [
+        "Addition",
+        "Subtraction",
+        "Division"
+      ]
+    },
+    "2": {
+      "question": "Which of the following is equivalent to multiplying a number by 1/4?",
+      "answer": "Dividing the number by 4",
+      "distractors": [
+        "Multiplying the number by 4",
+        "Adding 1/4 to the number",
+        "Subtracting 4 from the number"
+      ]
+    },
+    "3": {
+      "question": "What is the result of multiplying -4 and 7?",
+      "answer": "The product is negative.",
+      "distractors": [
+        "The product is positive.",
+        "The product is zero.",
+        "The product is undefined."
+      ]
+    },
+    "4": {
+      "question": "What is the result of 24 ÷ 4?",
+      "answer": "6",
+      "distractors": [
+        "8",
+        "4",
+        "12"
+      ]
+    },
+    "5": {
+      "question": "Which of the following statements correctly describes the relationship between the division symbol '÷' and the multiplication symbol '×'?",
+      "answer": "The division symbol '÷' denotes division, which is a different operation from multiplication '×'.",
+      "distractors": [
+        "The symbols '÷' and '×' both represent multiplication in all contexts.",
+        "The symbol '÷' is used to indicate multiplication when the numbers are small.",
+        "The symbols '÷' and '×' are interchangeable and mean the same thing in arithmetic."
+      ]
+    },
+    "6": {
+      "question": "What is the result of 8 ÷ (2/3)?",
+      "answer": "12",
+      "distractors": [
+        "4/3",
+        "16/3",
+        "24"
+      ]
+    },
+    "7": {
+      "question": "What is the result of (-24) ÷ 1/4?",
+      "answer": "-96",
+      "distractors": [
+        "-6",
+        "96",
+        "6"
+      ]
+    },
+    "8": {
+      "question": "What does the phrase 'four lots of -6 added together' mean?",
+      "answer": "-6 + (-6) + (-6) + (-6)",
+      "distractors": [
+        "-6 × 4",
+        "4 - (-6)",
+        "-6 ÷ 4"
+      ]
+    },
+    "9": {
+      "question": "Which expression correctly represents adding the number 7 a total of 5 times?",
+      "answer": "5 × 7",
+      "distractors": [
+        "7 + 5",
+        "7 × 5",
+        "5 + 7"
+      ]
+    },
+    "10": {
+      "question": "What is the result of adding -3 + -3 + -3 + -3?",
+      "answer": "-12",
+      "distractors": [
+        "12",
+        "-3",
+        "0"
+      ]
+    },
+    "11": {
+      "question": "Which of the following best describes how to check if a written equation is correct?",
+      "answer": "Translate the verbal description into the appropriate operation, compute the value, and compare that value with the one produced by the written symbolic expression.",
+      "distractors": [
+        "Rewrite the equation using different variables and see if it still makes sense.",
+        "Check if the equation uses the correct symbols like +, -, ×, ÷.",
+        "Plug in random numbers into the equation and see if the result is reasonable."
+      ]
+    }
+  },
+  "eedi_472": {
+    "0": {
+      "question": "Which of the following best describes the problem type for calculating 9.4 × 50?",
+      "answer": "Multiplication of a decimal by an integer",
+      "distractors": [
+        "Addition of two decimals",
+        "Division of a decimal by an integer",
+        "Multiplication of two decimals"
+      ]
+    },
+    "1": {
+      "question": "Which of the following shows how factoring 50 as 5 × 10 can simplify the multiplication problem 50 × 6?",
+      "answer": "Multiply 5 × 6 first, then multiply the result by 10",
+      "distractors": [
+        "Multiply 50 × 6 directly without breaking it down",
+        "Add 50 and 6, then multiply by 10",
+        "Divide 50 by 6 and then multiply by 10"
+      ]
+    },
+    "2": {
+      "question": "Which expression is equivalent to 3.2 × (7 × 4) using the associative property of multiplication?",
+      "answer": "(3.2 × 7) × 4",
+      "distractors": [
+        "3.2 × (7 + 4)",
+        "3.2 × 7 + 4",
+        "(3.2 + 7) × 4"
+      ]
+    },
+    "3": {
+      "question": "What is the result of multiplying 7.2 by 10?",
+      "answer": "72",
+      "distractors": [
+        "7.20",
+        "0.72",
+        "720"
+      ]
+    },
+    "4": {
+      "question": "Which of the following methods correctly calculates 18 × 5?",
+      "answer": "Multiply 18 by 10 to get 180, then divide by 2 to get 90.",
+      "distractors": [
+        "Multiply 18 by 2 to get 36, then divide by 10 to get 3.6.",
+        "Multiply 18 by 5 directly to get 90, without using 10 or 2.",
+        "Add 18 five times to get 90, using repeated addition."
+      ]
+    },
+    "5": {
+      "question": "Which of the following correctly shows how to convert 9.4 into a fraction using the strategy of representing it as a division expression, multiplying integers, and then dividing by 10 to restore the decimal place?",
+      "answer": "94 ÷ 10",
+      "distractors": [
+        "9 ÷ 4",
+        "9.4 ÷ 1",
+        "94 ÷ 100"
+      ]
+    },
+    "6": {
+      "question": "What is the result of 9.4 × 10?",
+      "answer": "94",
+      "distractors": [
+        "9.40",
+        "0.94",
+        "940"
+      ]
+    },
+    "7": {
+      "question": "What is the result of 9.4 × 5 using the halve-after-×10 strategy?",
+      "answer": "47",
+      "distractors": [
+        "4.7",
+        "94",
+        "18.8"
+      ]
+    },
+    "8": {
+      "question": "What is the result of (8.6 × 5) × 10?",
+      "answer": "430",
+      "distractors": [
+        "43",
+        "860",
+        "43.0"
+      ]
+    },
+    "9": {
+      "question": "A student calculates the area of a rectangle with length 8 cm and width 5 cm and obtains a result of 40 cm². Which of the following best interprets this result and matches it to the correct multiple-choice option?",
+      "answer": "The area is 40 cm², which corresponds to choice D.",
+      "distractors": [
+        "The area is 13 cm², which corresponds to choice A.",
+        "The area is 40 cm, which corresponds to choice B.",
+        "The area is 80 cm², which corresponds to choice C."
+      ]
+    }
+  },
+  "eedi_754": {
+    "0": {
+      "question": "Which number is located at the point marked by the arrow on the number line below? (The number line ranges from -10 to 20, with labeled points at -5, 0, 5, 10, and 15. The arrow points to the label '15'.)",
+      "answer": "15",
+      "distractors": [
+        "-5",
+        "5",
+        "10"
+      ]
+    },
+    "1": {
+      "question": "What does an arrow pointing to the left on a number line indicate?",
+      "answer": "A negative movement",
+      "distractors": [
+        "A positive movement",
+        "An increase in value",
+        "A movement toward zero"
+      ]
+    },
+    "2": {
+      "question": "What does an arrow label of −20 represent on a number line?",
+      "answer": "A movement of 20 units to the left",
+      "distractors": [
+        "A movement of 20 units to the right",
+        "A movement of 20 units upward",
+        "A movement of 20 units downward"
+      ]
+    },
+    "3": {
+      "question": "A movement of −20 is applied to a starting number of 15. Which arithmetic expression correctly represents this situation?",
+      "answer": "15 + (−20)",
+      "distractors": [
+        "15 − (−20)",
+        "15 + 20",
+        "−20 + 15"
+      ]
+    },
+    "4": {
+      "question": "What is the equivalent expression for 12 + (−8)?",
+      "answer": "12 − 8",
+      "distractors": [
+        "12 + 8",
+        "−12 + 8",
+        "12 × (−8)"
+      ]
+    },
+    "5": {
+      "question": "What is the result of 15 − 20?",
+      "answer": "−5",
+      "distractors": [
+        "5",
+        "35",
+        "−35"
+      ]
+    },
+    "6": {
+      "question": "Which equation correctly computes adding 20 to −5 and yields 15?",
+      "answer": "(−5) + 20 = 15",
+      "distractors": [
+        "(−5) − 20 = 15",
+        "5 + 20 = 15",
+        "−5 × 20 = 15"
+      ]
+    },
+    "7": {
+      "question": "Two points, A and B, are 20 units apart on a number line. Which pair of equations correctly describes moving between these points using opposite movements?",
+      "answer": "Start at A and move −20 to reach B; start at B and move +20 to reach A",
+      "distractors": [
+        "Start at A and move +20 to reach B; start at B and move +20 to reach A",
+        "Start at A and move −20 to reach B; start at B and move −20 to reach A",
+        "Start at A and move +20 to reach B; start at B and move −20 to reach A"
+      ]
+    },
+    "8": {
+      "question": "A diagram shows a number line with a point at 15, then a move of 20 units to the left, ending at -5. Which pair of equations correctly represents this diagram from different starting points?",
+      "answer": "15 − 20 = −5 and (−5) + 20 = 15",
+      "distractors": [
+        "15 + 20 = 35 and 35 − 20 = 15",
+        "−5 − 20 = −25 and −25 + 20 = −5",
+        "15 − 5 = 10 and 10 + 20 = 30"
+      ]
+    },
+    "9": {
+      "question": "A diagram shows a number line starting at -3 and moving 5 units to the right. Which arithmetic expression correctly represents this movement?",
+      "answer": "-3 + 5",
+      "distractors": [
+        "-3 - 5",
+        "3 + 5",
+        "-5 + 3"
+      ]
+    },
+    "10": {
+      "question": "A number line diagram starts at -3 and moves 5 units to the right. Which expression correctly represents this diagram, and why?",
+      "answer": "The expression -3 + 5 is correct because it starts at -3 and moves 5 units to the right, resulting in 2.",
+      "distractors": [
+        "The expression -3 - 5 is correct because it ends at -8, which matches the final position.",
+        "The expression 5 - 3 is correct because it equals 2, which is the final position.",
+        "The expression -3 + 5 is incorrect because it does not start at 0, which is the standard starting point for number lines."
+      ]
+    }
+  },
+  "eedi_174": {
+    "0": {
+      "question": "Which of the following correctly describes the location of the point (3, 4) on the coordinate plane?",
+      "answer": "3 units to the right of the origin and 4 units up from the origin",
+      "distractors": [
+        "3 units up from the origin and 4 units to the right of the origin",
+        "3 units to the left of the origin and 4 units down from the origin",
+        "3 units down from the origin and 4 units to the left of the origin"
+      ]
+    },
+    "1": {
+      "question": "What is the correct formula to compute the difference in x-coordinates between two points (x1, y1) and (x2, y2)?",
+      "answer": "dx = x2 - x1",
+      "distractors": [
+        "dx = x1 - x2",
+        "dx = x2 + x1",
+        "dx = x1 * x2"
+      ]
+    },
+    "2": {
+      "question": "What is the distance between the points (3, 4) and (7, 1)?",
+      "answer": "5",
+      "distractors": [
+        "sqrt(25)",
+        "sqrt(17)",
+        "sqrt(29)"
+      ]
+    },
+    "3": {
+      "question": "In a parallelogram, what is true about the diagonals?",
+      "answer": "They bisect each other (they share the same midpoint).",
+      "distractors": [
+        "They are always perpendicular.",
+        "They are always equal in length.",
+        "They intersect at the vertices of the parallelogram."
+      ]
+    },
+    "4": {
+      "question": "What is the midpoint of the line segment connecting the points (4, 6) and (8, 10)?",
+      "answer": "(6, 8)",
+      "distractors": [
+        "(12, 16)",
+        "(2, 4)",
+        "(4, 5)"
+      ]
+    },
+    "5": {
+      "question": "Given midpoint M(4, 3) and one endpoint B(2, 1), what are the coordinates of the other endpoint D?",
+      "answer": "D(6, 5)",
+      "distractors": [
+        "D(2, 1)",
+        "D(8, 6)",
+        "D(0, 0)"
+      ]
+    },
+    "6": {
+      "question": "What is the result of 2*(3, 4) + (1, -2)?",
+      "answer": "(7, 6)",
+      "distractors": [
+        "(6, 8) + (1, -2)",
+        "(7, 2)",
+        "(5, 6)"
+      ]
+    },
+    "7": {
+      "question": "Given three points A(0,0), B(4,0), and C(0,3), which pair of points are most likely opposite vertices of a rectangle? (Hint: Use pairwise distances to identify the diagonal.)",
+      "answer": "A and B",
+      "distractors": [
+        "A and C",
+        "B and C",
+        "All pairs are equally likely"
+      ]
+    },
+    "8": {
+      "question": "A rectangle has vertices at (2, 3), (2, 7), and (8, 7). What are the coordinates of the fourth vertex? Use the rectangle midpoint property to solve.",
+      "answer": "(8, 3)",
+      "distractors": [
+        "(8, 5)",
+        "(6, 5)",
+        "(2, 5)"
+      ]
+    },
+    "9": {
+      "question": "Given three vertices of a parallelogram in order: A(2, 3), B(5, 7), and C(8, 2), what are the coordinates of the fourth vertex D?",
+      "answer": "D(5, -2)",
+      "distractors": [
+        "D(10, 10)",
+        "D(3, -4)",
+        "D(1, 8)"
+      ]
+    },
+    "10": {
+      "question": "A student is calculating the displacement using the formula: Δx = v₀t + ½at². Given v₀ = -3 m/s, t = 4 s, and a = 2 m/s², what is the correct value of Δx?",
+      "answer": "-4 m",
+      "distractors": [
+        "-20 m",
+        "20 m",
+        "4 m"
+      ]
+    },
+    "11": {
+      "question": "Which method can be used to verify that adjacent sides of a quadrilateral form a right angle, confirming it is a rectangle?",
+      "answer": "Compute the slopes of adjacent sides and check if their product equals -1",
+      "distractors": [
+        "Measure the lengths of all sides to ensure they are equal",
+        "Calculate the area using base times height",
+        "Check if the diagonals bisect each other"
+      ]
+    }
+  },
+  "eedi_533": {
+    "0": {
+      "question": "Which of the following best describes the role of a variable like t in algebra?",
+      "answer": "A variable like t represents an unknown value that can be manipulated algebraically.",
+      "distractors": [
+        "A variable like t is always equal to a specific number and cannot change.",
+        "A variable like t is only used to label geometric shapes.",
+        "A variable like t must always be a positive integer."
+      ]
+    },
+    "1": {
+      "question": "What does the expression (t-3)/4 represent?",
+      "answer": "The entire expression t-3 is divided by 4, with t-3 as the numerator and 4 as the denominator.",
+      "distractors": [
+        "Only the variable t is divided by 4, and then 3 is subtracted.",
+        "The variable t is subtracted by 3, and then the result is multiplied by 4.",
+        "The number 3 is divided by 4, and then subtracted from t."
+      ]
+    },
+    "2": {
+      "question": "Which expression correctly represents 'subtracting 3 from t'?",
+      "answer": "t - 3",
+      "distractors": [
+        "3 - t",
+        "t + 3",
+        "3t"
+      ]
+    },
+    "3": {
+      "question": "Which of the following correctly represents dividing the expression (3x + 5) by 4?",
+      "answer": "(3x + 5)/4",
+      "distractors": [
+        "3x + 5/4",
+        "3x + 5 ÷ 4",
+        "3x/4 + 5"
+      ]
+    },
+    "4": {
+      "question": "Which of the following best describes applying operations in sequence?",
+      "answer": "Performing the first operation on the input and then performing the next operation on the result.",
+      "distractors": [
+        "Applying all operations simultaneously to the original input.",
+        "Reversing the order of operations before applying them.",
+        "Applying each operation to a different input value."
+      ]
+    },
+    "5": {
+      "question": "Which of the following expressions gives a different result than 12 - 3 ÷ 4?",
+      "answer": "12 ÷ 4 - 3",
+      "distractors": [
+        "(12 - 3) ÷ 4",
+        "12 - (3 ÷ 4)",
+        "12 ÷ (4 - 3)"
+      ]
+    },
+    "6": {
+      "question": "Which of the following correctly explains how to obtain (t-3)/4 from t?",
+      "answer": "Subtract 3 from t first, then divide the result by 4, because dividing first would give t/4, and subtracting 3 afterward would not yield (t-3)/4.",
+      "distractors": [
+        "Divide t by 4 first, then subtract 3, since division and subtraction are commutative.",
+        "Subtract 3 from t/4, because the order of operations does not matter when simplifying expressions.",
+        "Multiply t by 4, then subtract 3, because that is the inverse of the target expression."
+      ]
+    },
+    "7": {
+      "question": "Which expression correctly represents the result of first subtracting 3 from t and then dividing the result by 4?",
+      "answer": "(t - 3) / 4",
+      "distractors": [
+        "t - 3 / 4",
+        "t - (3 / 4)",
+        "4(t - 3)"
+      ]
+    },
+    "8": {
+      "question": "Which operation does the symbol '÷' represent?",
+      "answer": "Division",
+      "distractors": [
+        "Subtraction",
+        "Addition",
+        "Multiplication"
+      ]
+    },
+    "9": {
+      "question": "Which of the following best describes the strategy of solving by inspection when working with expressions involving a variable t?",
+      "answer": "Compare the effect of each answer choice on a general t (or on a test value) to see which produces the target expression.",
+      "distractors": [
+        "Substitute t = 0 into each expression and choose the one that matches the target.",
+        "Simplify each expression algebraically and compare the final forms.",
+        "Graph each expression and find the one that overlaps with the target expression."
+      ]
+    },
+    "10": {
+      "question": "Which sequence of operations has the first operation as '-3' and the second operation as '÷4'?",
+      "answer": "Subtract 3, then divide by 4",
+      "distractors": [
+        "Add 3, then multiply by 4",
+        "Divide by 4, then subtract 3",
+        "Multiply by 4, then add 3"
+      ]
+    }
+  },
+  "eedi_570": {
+    "0": {
+      "question": "How should you count the total number of dots in a grid diagram to ensure accuracy?",
+      "answer": "Scan each row and column systematically, tallying each dot as you go.",
+      "distractors": [
+        "Count only the dots in the first row and multiply by the number of rows.",
+        "Estimate the total by eye and round to the nearest ten.",
+        "Count only the dots along the edges of the grid."
+      ]
+    },
+    "1": {
+      "question": "What is the number of tiles in Pattern 5, given that Pattern 1 has 6 tiles, Pattern 2 has 10 tiles, Pattern 3 has 14 tiles, and Pattern 4 has 18 tiles?",
+      "answer": "22",
+      "distractors": [
+        "20",
+        "24",
+        "26"
+      ]
+    },
+    "2": {
+      "question": "What is the correct way to compute the difference between consecutive terms in a sequence?",
+      "answer": "Subtract the current term from the next term",
+      "distractors": [
+        "Add the current term and the next term",
+        "Multiply the current term by the next term",
+        "Divide the next term by the current term"
+      ]
+    },
+    "3": {
+      "question": "Which of the following sequences shows constant (arithmetic) growth?",
+      "answer": "3, 7, 11, 15, 19",
+      "distractors": [
+        "2, 4, 8, 16, 32",
+        "1, 4, 9, 16, 25",
+        "5, 10, 20, 40, 80"
+      ]
+    },
+    "4": {
+      "question": "What is the general formula for the nth term of an arithmetic sequence?",
+      "answer": "a_n = a_1 + (n − 1)·d",
+      "distractors": [
+        "a_n = a_1 + n·d",
+        "a_n = a_1 + d·n",
+        "a_n = a_1 + (n + 1)·d"
+      ]
+    },
+    "5": {
+      "question": "In an arithmetic sequence, the first term is identified as the initial value in the data set. Given the sequence: 6, 10, 14, 18, ..., what is the first term a₁?",
+      "answer": "6",
+      "distractors": [
+        "10",
+        "14",
+        "18"
+      ]
+    },
+    "6": {
+      "question": "In an arithmetic sequence, the first two terms are 6 and 10. What is the common difference d?",
+      "answer": "4",
+      "distractors": [
+        "6",
+        "10",
+        "16"
+      ]
+    },
+    "7": {
+      "question": "An arithmetic sequence has a first term of 6 and a common difference of 4. Which expression represents the nth term of this sequence?",
+      "answer": "6 + (n − 1)·4",
+      "distractors": [
+        "6 + n·4",
+        "6 + (n + 1)·4",
+        "6 + 4n − 4"
+      ]
+    },
+    "8": {
+      "question": "Expand and simplify the expression: 3(2x + 5) - 4x + 7",
+      "answer": "2x + 22",
+      "distractors": [
+        "6x + 5 - 4x + 7",
+        "2x + 12",
+        "6x + 22"
+      ]
+    },
+    "9": {
+      "question": "If the formula for the nth term of a sequence is given by 3n + 2, what is the value of the 6th term?",
+      "answer": "20",
+      "distractors": [
+        "18",
+        "22",
+        "16"
+      ]
+    },
+    "10": {
+      "question": "What is the result of multiplying 4 by 6 and then adding 2?",
+      "answer": "26",
+      "distractors": [
+        "28",
+        "22",
+        "18"
+      ]
+    },
+    "11": {
+      "question": "After calculating the area of a rectangle with length 8 cm and width 5 cm, you obtain a result of 40 cm². Which of the following options matches your computed result?",
+      "answer": "40 cm²",
+      "distractors": [
+        "30 cm²",
+        "45 cm²",
+        "50 cm²"
+      ]
+    },
+    "12": {
+      "question": "After deriving a formula for the number of edges in a complete graph with n vertices, you should verify it by checking known values. If the formula gives 10 edges when n = 2, what should you conclude?",
+      "answer": "The formula is incorrect because a complete graph with 2 vertices has only 1 edge.",
+      "distractors": [
+        "The formula is correct because 10 edges is a reasonable number for n = 2.",
+        "The formula is correct because n = 2 is a special case.",
+        "The formula is correct because 10 is the expected value for small n."
+      ]
+    },
+    "13": {
+      "question": "How many dots are in the L-shaped figure made by overlapping 3 dots in a vertical column and 3 dots in a horizontal row, where the corner dot is shared by both rows and columns?",
+      "answer": "5",
+      "distractors": [
+        "6",
+        "7",
+        "4"
+      ]
+    }
+  },
+  "eedi_19": {
+    "0": {
+      "question": "Which of the following best describes how a flow diagram with a starting number and arrows represents a sequence of operations?",
+      "answer": "Operations are applied in the order shown from left to right.",
+      "distractors": [
+        "Operations can be performed in any order as long as all are completed.",
+        "The starting number is only used for labeling and does not affect the operations.",
+        "Arrows indicate the direction of data flow but do not define the order of operations."
+      ]
+    },
+    "1": {
+      "question": "What does a box labeled '-2' in a sequence mean?",
+      "answer": "Subtract 2 from the current value",
+      "distractors": [
+        "Add 2 to the current value",
+        "Multiply the current value by 2",
+        "Divide the current value by 2"
+      ]
+    },
+    "2": {
+      "question": "What does a box labeled '×3' in a sequence of operations mean?",
+      "answer": "Multiply the current value by 3",
+      "distractors": [
+        "Add 3 to the current value",
+        "Subtract 3 from the current value",
+        "Divide the current value by 3"
+      ]
+    },
+    "3": {
+      "question": "Which of the following expressions must be evaluated by performing the multiplication before the addition, assuming no parentheses are present?",
+      "answer": "3 + 4 × 5",
+      "distractors": [
+        "(3 + 4) × 5",
+        "3 × (4 + 5)",
+        "3 + 4 + 5"
+      ]
+    },
+    "4": {
+      "question": "Which of the following best describes the purpose of parentheses in an arithmetic expression?",
+      "answer": "Parentheses indicate grouping and force operations inside them to be evaluated before operations outside.",
+      "distractors": [
+        "Parentheses are used to make expressions look more complex.",
+        "Parentheses change the order of operations only if they contain multiplication.",
+        "Parentheses are optional and do not affect the result of an expression."
+      ]
+    },
+    "5": {
+      "question": "Which of the following expressions correctly evaluates to 10 if you want to add 3 and 5 first, then multiply by 2?",
+      "answer": "2 × (3 + 5)",
+      "distractors": [
+        "2 × 3 + 5",
+        "(2 × 3) + 5",
+        "2 + 3 × 5"
+      ]
+    },
+    "6": {
+      "question": "Which expression correctly translates the phrase 'subtract 2 from 4, then multiply by 3'?",
+      "answer": "(4 − 2) × 3",
+      "distractors": [
+        "4 − 2 × 3",
+        "4 − (2 × 3)",
+        "4 × 3 − 2"
+      ]
+    },
+    "7": {
+      "question": "What is the result of 4 − 2?",
+      "answer": "2",
+      "distractors": [
+        "6",
+        "0",
+        "4"
+      ]
+    },
+    "8": {
+      "question": "What is the result of 2 × 3?",
+      "answer": "6",
+      "distractors": [
+        "5",
+        "8",
+        "4"
+      ]
+    },
+    "9": {
+      "question": "What does the equation (4 − 2) × 3 = 6 assert?",
+      "answer": "The left-hand expression evaluates to the number 6",
+      "distractors": [
+        "The right-hand expression evaluates to the number 6",
+        "The equation is only true if 4 is greater than 2",
+        "The expression (4 − 2) × 3 is undefined"
+      ]
+    },
+    "10": {
+      "question": "Which of the following correctly evaluates the expression 4 − 2 × 3 according to the order of operations?",
+      "answer": "−2",
+      "distractors": [
+        "10",
+        "4",
+        "6"
+      ]
+    },
+    "11": {
+      "question": "Which of the following expressions correctly represents the mathematical statement: 'Subtract 2 from 4, then multiply the result by 3 to get 6'?",
+      "answer": "(4 − 2) × 3 = 6",
+      "distractors": [
+        "4 − 2 × 3 = 6",
+        "4 − (2 × 3) = 6",
+        "(4 − 2 × 3) = 6"
+      ]
+    }
+  },
+  "eedi_83": {
+    "0": {
+      "question": "Which of the following best defines an angle?",
+      "answer": "An angle is formed by two rays with a common endpoint called the vertex.",
+      "distractors": [
+        "An angle is formed by two line segments that intersect at a point.",
+        "An angle is a measure of the distance between two lines.",
+        "An angle is created when two lines extend infinitely in opposite directions without intersecting."
+      ]
+    },
+    "1": {
+      "question": "Which of the following is necessary to measure an angle correctly using a protractor?",
+      "answer": "The protractor's center must be placed at the angle's vertex.",
+      "distractors": [
+        "The protractor should be aligned with one side of the angle, regardless of the vertex.",
+        "The protractor must be placed so that the 0-degree mark is at the angle's vertex.",
+        "The protractor should be held perpendicular to the angle's sides for accurate measurement."
+      ]
+    },
+    "2": {
+      "question": "When measuring an angle with a protractor, what must be done first to ensure an accurate reading?",
+      "answer": "Align the protractor's baseline (the 0° line) with one of the angle's rays",
+      "distractors": [
+        "Place the protractor's center over the angle's vertex",
+        "Align the protractor's edge with the angle's vertex",
+        "Read the measurement from the outer scale only"
+      ]
+    },
+    "3": {
+      "question": "When measuring an angle with a protractor, how do you determine the angle's degree measure?",
+      "answer": "Read the degree mark where the second ray crosses the protractor scale, using the appropriate scale (inner or outer).",
+      "distractors": [
+        "Measure the length of the ray from the vertex to the edge of the protractor.",
+        "Use the number at the center of the protractor regardless of where the ray crosses.",
+        "Count the number of tick marks between the two rays on the protractor."
+      ]
+    },
+    "4": {
+      "question": "When using a semicircular protractor to measure an angle, which scale should you use if the protractor's baseline is aligned with one side of the angle?",
+      "answer": "The scale that starts at 0° on the aligned baseline",
+      "distractors": [
+        "The scale that increases clockwise regardless of alignment",
+        "The scale that increases counterclockwise regardless of alignment",
+        "The scale that is closest to the vertex of the angle"
+      ]
+    },
+    "5": {
+      "question": "Which of the following best describes the reflex angle formed by two rays?",
+      "answer": "The larger region around the two rays",
+      "distractors": [
+        "The smaller region between the two rays",
+        "The region that is always acute",
+        "The region that is always obtuse"
+      ]
+    },
+    "6": {
+      "question": "If the interior angle measured with a protractor is 150°, what is the measure of the reflex angle formed by the same two rays?",
+      "answer": "210°",
+      "distractors": [
+        "150°",
+        "360°",
+        "180°"
+      ]
+    },
+    "7": {
+      "question": "In a diagram showing an angle at a vertex, how can you determine whether the indicated angle is the interior angle or the reflex angle?",
+      "answer": "By observing which region is shaded or marked in the diagram",
+      "distractors": [
+        "By measuring the angle with a protractor",
+        "By checking the number of sides in the polygon",
+        "By identifying the type of polygon the angle belongs to"
+      ]
+    },
+    "8": {
+      "question": "What is the result of subtracting 150 degrees from 360 degrees?",
+      "answer": "210",
+      "distractors": [
+        "150",
+        "120",
+        "240"
+      ]
+    },
+    "9": {
+      "question": "A shaded region on a circle measures 210°. Tom says the angle is 150°, referring to the interior angle. Katie says it is 210°, referring to the reflex angle. Who is correct?",
+      "answer": "Katie is correct because the shaded region is a reflex angle measuring 210°.",
+      "distractors": [
+        "Tom is correct because 150° is the interior angle and is always smaller.",
+        "Both are correct because 150° and 210° are supplementary angles.",
+        "Neither is correct because angles in a circle cannot exceed 180°."
+      ]
+    }
+  },
+  "eedi_229": {
+    "0": {
+      "question": "Which of the following best defines a parallelogram?",
+      "answer": "A quadrilateral with both pairs of opposite sides parallel",
+      "distractors": [
+        "A quadrilateral with at least one pair of parallel sides",
+        "A quadrilateral with all sides equal in length",
+        "A quadrilateral with four right angles"
+      ]
+    },
+    "1": {
+      "question": "Which of the following statements is true about a parallelogram?",
+      "answer": "Opposite sides are equal in length",
+      "distractors": [
+        "All sides are equal in length",
+        "Opposite angles are supplementary",
+        "Diagonals are perpendicular to each other"
+      ]
+    },
+    "2": {
+      "question": "Which of the following statements is true about parallelograms?",
+      "answer": "Parallelograms do not necessarily have right angles or equal adjacent sides.",
+      "distractors": [
+        "All parallelograms are rectangles because they have two pairs of parallel sides.",
+        "Parallelograms must have all sides equal in length, making them rhombi.",
+        "Every parallelogram has four right angles, so it is always a rectangle."
+      ]
+    },
+    "3": {
+      "question": "Which of the following best describes a line of symmetry for a shape?",
+      "answer": "A line is a line of symmetry if reflecting the shape across that line maps the shape exactly onto itself.",
+      "distractors": [
+        "A line of symmetry is any line that divides a shape into two equal parts.",
+        "A line of symmetry is a line that passes through the center of a shape.",
+        "A line of symmetry is a line that makes the shape look balanced when drawn through it."
+      ]
+    },
+    "4": {
+      "question": "Which method correctly tests for reflection symmetry in a polygon?",
+      "answer": "Choose a candidate axis, reflect each vertex across the axis, and check whether reflected vertices coincide with original vertices and edges align.",
+      "distractors": [
+        "Rotate the polygon 180 degrees and check if it matches the original.",
+        "Translate the polygon along the x-axis and compare vertex positions.",
+        "Reflect only the midpoints of edges across a candidate axis and check for alignment."
+      ]
+    },
+    "5": {
+      "question": "Which of the following must be true if a quadrilateral has a vertical axis of symmetry?",
+      "answer": "The left and right halves are mirror images with corresponding side lengths and angles equal.",
+      "distractors": [
+        "The top and bottom halves are mirror images.",
+        "All four sides must be of equal length.",
+        "The quadrilateral must be a rectangle."
+      ]
+    },
+    "6": {
+      "question": "Which of the following must be true if a quadrilateral has a horizontal axis of symmetry?",
+      "answer": "The top and bottom halves are mirror images with corresponding side lengths and angles equal.",
+      "distractors": [
+        "The left and right halves are mirror images with corresponding side lengths and angles equal.",
+        "The quadrilateral must be a rectangle.",
+        "The top and bottom sides must be parallel and of equal length."
+      ]
+    },
+    "7": {
+      "question": "Which of the following must be true if a diagonal of a quadrilateral is a line of symmetry?",
+      "answer": "Reflection across the diagonal maps each vertex to another vertex and preserves side lengths and alignment.",
+      "distractors": [
+        "The diagonal must be perpendicular to the other diagonal.",
+        "The quadrilateral must be a square or rectangle.",
+        "Reflection across the diagonal may map a vertex to a point on a side, not necessarily a vertex."
+      ]
+    },
+    "8": {
+      "question": "Which of the following statements is true about a generic slanted parallelogram under vertical or horizontal reflection?",
+      "answer": "The parallelogram changes orientation, and the slant reverses, so the shape does not map to itself unless additional equalities hold.",
+      "distractors": [
+        "The parallelogram remains unchanged under vertical or horizontal reflection because it is a quadrilateral.",
+        "The slant direction stays the same after reflection, so the shape maps to itself.",
+        "Reflection over either axis preserves the shape's orientation and slant, making it symmetric."
+      ]
+    },
+    "9": {
+      "question": "Which of the following statements best explains why a generic parallelogram does not have diagonal lines of symmetry?",
+      "answer": "Diagonal reflections require special relationships between adjacent sides and angles, which are not present in a generic parallelogram.",
+      "distractors": [
+        "All parallelograms have two lines of symmetry along their diagonals.",
+        "A parallelogram always has rotational symmetry, so diagonal reflections are unnecessary.",
+        "Diagonal lines of symmetry exist in all quadrilaterals with four equal sides."
+      ]
+    },
+    "10": {
+      "question": "How many lines of reflection symmetry does a square have?",
+      "answer": "4",
+      "distractors": [
+        "2",
+        "1",
+        "0"
+      ]
+    },
+    "11": {
+      "question": "Which of the following best describes the parallelogram shown below, assuming it has no right angles and adjacent sides of different lengths?",
+      "answer": "generic parallelogram",
+      "distractors": [
+        "rectangle",
+        "rhombus",
+        "square"
+      ]
+    },
+    "12": {
+      "question": "Which of the following is true about the lines of symmetry in a general parallelogram that is not a special case (like a rectangle or rhombus)?",
+      "answer": "It has 0 lines of symmetry.",
+      "distractors": [
+        "It has 1 line of symmetry (vertical).",
+        "It has 2 lines of symmetry (vertical and horizontal).",
+        "It has 1 line of symmetry (diagonal)."
+      ]
+    }
+  },
+  "eedi_687": {
+    "0": {
+      "question": "Which of the following best defines a circle?",
+      "answer": "A circle is the set of points equidistant from a central point called the center.",
+      "distractors": [
+        "A circle is a polygon with infinite sides.",
+        "A circle is the set of points that are all the same distance from a given line.",
+        "A circle is the set of points that lie on a straight path from the center to the edge."
+      ]
+    },
+    "1": {
+      "question": "In diagrams, what does a small filled dot inside a circle typically represent?",
+      "answer": "The center of the circle",
+      "distractors": [
+        "The radius of the circle",
+        "The circumference of the circle",
+        "A point on the edge of the circle"
+      ]
+    },
+    "2": {
+      "question": "Which of the following best describes a radius of a circle?",
+      "answer": "A line segment with one endpoint at the center of the circle and the other endpoint on the circle's circumference.",
+      "distractors": [
+        "A line segment connecting any two points on the circle's circumference.",
+        "A line segment that passes through the center and has both endpoints on the circle's circumference.",
+        "The distance around the outside of the circle."
+      ]
+    },
+    "3": {
+      "question": "Which of the following best describes a diameter of a circle?",
+      "answer": "A line segment with both endpoints on the circle's circumference that passes through the center and has a length equal to twice the radius.",
+      "distractors": [
+        "A line segment connecting any two points on the circle's circumference.",
+        "A line segment from the center to any point on the circle's circumference.",
+        "A curved line that goes through the center of the circle and touches the circumference at one point."
+      ]
+    },
+    "4": {
+      "question": "Which of the following statements best describes a diameter of a circle?",
+      "answer": "A diameter is a chord that passes through the center of the circle.",
+      "distractors": [
+        "A diameter is a line segment that connects any two points on the circle's circumference.",
+        "A diameter is a radius extended to the opposite side of the circle.",
+        "A diameter is a chord that does not pass through the center but is the longest possible chord."
+      ]
+    },
+    "5": {
+      "question": "When evaluating a drawn segment in a circle, what is the first step you should take?",
+      "answer": "Identify the segment's endpoints and whether they lie on the circumference or at the center",
+      "distractors": [
+        "Measure the length of the segment using a ruler",
+        "Determine if the segment is perpendicular to the radius",
+        "Check if the segment passes through the center of the circle"
+      ]
+    },
+    "6": {
+      "question": "Which of the following is the correct way to test if a segment is a diameter of a circle?",
+      "answer": "Check whether the segment passes through the center point.",
+      "distractors": [
+        "Measure the length of the segment to see if it equals the radius.",
+        "Verify that the segment connects two points on the circle's circumference.",
+        "Ensure the segment is perpendicular to a chord in the circle."
+      ]
+    },
+    "7": {
+      "question": "Which of the following best describes how to determine if a segment is a radius of a circle?",
+      "answer": "Check whether one endpoint is the center and the other is on the circumference.",
+      "distractors": [
+        "Measure the length of the segment and compare it to the diameter.",
+        "Ensure both endpoints lie on the circumference.",
+        "Verify that the segment passes through the center and extends beyond the circle."
+      ]
+    },
+    "8": {
+      "question": "Which of the following best describes a segment that has both endpoints on the circumference of a circle but does not pass through the center?",
+      "answer": "a chord that is neither a diameter nor a radius",
+      "distractors": [
+        "a radius",
+        "a diameter",
+        "a tangent"
+      ]
+    },
+    "9": {
+      "question": "Which of the following statements is true regarding a segment that does not meet the defining criteria for either diameter or radius?",
+      "answer": "Neither the label 'diameter' nor 'radius' applies to that segment.",
+      "distractors": [
+        "The segment can still be labeled as a radius if it connects to the center.",
+        "The segment must be labeled as a diameter if it passes through the center.",
+        "The segment can be called either a radius or diameter depending on context."
+      ]
+    }
+  },
+  "eedi_341": {
+    "0": {
+      "question": "Which of the following best describes the meaning of the word 'necessarily' in geometry?",
+      "answer": "A property that must hold for every instance of a given figure type.",
+      "distractors": [
+        "A property that is sometimes true for a figure type.",
+        "A property that is only true for special cases of a figure type.",
+        "A property that can be chosen arbitrarily for a figure type."
+      ]
+    },
+    "1": {
+      "question": "Which of the following best defines a regular hexagon?",
+      "answer": "A six-sided polygon with all sides and angles equal",
+      "distractors": [
+        "A six-sided polygon with all sides equal but angles may vary",
+        "A polygon with six equal angles but sides of different lengths",
+        "Any polygon with six sides, regardless of side or angle measures"
+      ]
+    },
+    "2": {
+      "question": "Which of the following statements is true about a regular hexagon?",
+      "answer": "It has 3 pairs of parallel sides.",
+      "distractors": [
+        "It has 6 pairs of parallel sides.",
+        "It has no parallel sides.",
+        "It has 2 pairs of parallel sides."
+      ]
+    },
+    "3": {
+      "question": "Which of the following best defines a rhombus?",
+      "answer": "A quadrilateral with four equal sides",
+      "distractors": [
+        "A quadrilateral with four right angles",
+        "A quadrilateral with two pairs of parallel sides",
+        "A quadrilateral with one pair of equal sides"
+      ]
+    },
+    "4": {
+      "question": "Which of the following statements is true about the relationship between a rhombus and a parallelogram?",
+      "answer": "Every rhombus is a parallelogram.",
+      "distractors": [
+        "Every parallelogram is a rhombus.",
+        "A rhombus is never a parallelogram.",
+        "A rhombus and a parallelogram are completely unrelated shapes."
+      ]
+    },
+    "5": {
+      "question": "Which of the following must be true for a rhombus?",
+      "answer": "It has two pairs of parallel sides.",
+      "distractors": [
+        "It has four equal angles.",
+        "It has exactly one pair of parallel sides.",
+        "Its diagonals are equal in length."
+      ]
+    },
+    "6": {
+      "question": "Which of the following best defines a trapezium (trapezoid)?",
+      "answer": "A quadrilateral with at least one pair of parallel sides",
+      "distractors": [
+        "A quadrilateral with two pairs of parallel sides",
+        "A quadrilateral with no parallel sides",
+        "A quadrilateral with all sides of equal length"
+      ]
+    },
+    "7": {
+      "question": "According to the definition of a trapezium, which of the following must be true?",
+      "answer": "It has at least one pair of parallel sides.",
+      "distractors": [
+        "It has two pairs of parallel sides.",
+        "It has no parallel sides.",
+        "All its sides are of equal length."
+      ]
+    },
+    "8": {
+      "question": "Which of the following best defines a kite?",
+      "answer": "A quadrilateral with two pairs of adjacent equal sides",
+      "distractors": [
+        "A quadrilateral with two pairs of opposite equal sides",
+        "A quadrilateral with all sides equal",
+        "A quadrilateral with two pairs of parallel sides"
+      ]
+    },
+    "9": {
+      "question": "Which of the following statements is true about the properties of a kite?",
+      "answer": "A kite does not require any pair of parallel sides, though some kites may have them in special cases.",
+      "distractors": [
+        "A kite must have at least one pair of parallel sides.",
+        "All kites have two pairs of parallel sides.",
+        "A kite must have exactly one pair of parallel sides."
+      ]
+    },
+    "10": {
+      "question": "Which of the following quadrilateral types does NOT guarantee that at least one pair of sides is parallel?",
+      "answer": "Kite",
+      "distractors": [
+        "Parallelogram",
+        "Trapezoid",
+        "Rectangle"
+      ]
+    }
+  },
+  "eedi_117": {
+    "0": {
+      "question": "Which of the following statements correctly describes how numbers are arranged on a number line?",
+      "answer": "A number line displays numbers in increasing order from left to right.",
+      "distractors": [
+        "A number line displays numbers in decreasing order from left to right.",
+        "Numbers on a number line are arranged randomly.",
+        "A number line only shows positive numbers from left to right."
+      ]
+    },
+    "1": {
+      "question": "Which of the following statements is true about equally spaced tick marks on a number line?",
+      "answer": "They indicate equal numeric intervals between adjacent ticks.",
+      "distractors": [
+        "They represent increasing intervals as the numbers get larger.",
+        "They show the exact value of each tick mark without needing labels.",
+        "They are only used for whole numbers and not fractions or decimals."
+      ]
+    },
+    "2": {
+      "question": "On a number line, there are labeled ticks at 2 and 8. How many equal intervals lie between these two ticks?",
+      "answer": "6",
+      "distractors": [
+        "7",
+        "5",
+        "4"
+      ]
+    },
+    "3": {
+      "question": "How many segments (gaps) are there between the labeled ticks at -5 and 3 on a number line?",
+      "answer": "8",
+      "distractors": [
+        "7",
+        "4",
+        "9"
+      ]
+    },
+    "4": {
+      "question": "What is the numeric distance between two numbers a and b on a number line when b is to the right of a?",
+      "answer": "b - a",
+      "distractors": [
+        "a - b",
+        "b + a",
+        "|a - b|"
+      ]
+    },
+    "5": {
+      "question": "What is the value of 9 - (-4)?",
+      "answer": "13",
+      "distractors": [
+        "5",
+        "-13",
+        "9"
+      ]
+    },
+    "6": {
+      "question": "A number line shows labels at 0 and 20, with 4 equal intervals between them. What is the width of each interval?",
+      "answer": "4",
+      "distractors": [
+        "5",
+        "20",
+        "8"
+      ]
+    },
+    "7": {
+      "question": "Which of the following correctly expresses the result of dividing 10 by 3 as a fraction?",
+      "answer": "10/3",
+      "distractors": [
+        "3/10",
+        "10 ÷ 3 = 3.33",
+        "3 1/3"
+      ]
+    },
+    "8": {
+      "question": "A rectangle has a length of 8 cm and a width of 5 cm. What is its area? Choose the correct answer from the options below.",
+      "answer": "40 cm²",
+      "distractors": [
+        "13 cm²",
+        "30 cm²",
+        "80 cm²"
+      ]
+    },
+    "9": {
+      "question": "Which of the following is an acceptable way to express the result of 10 ÷ 3 when the answer choices include exact fractions?",
+      "answer": "10/3",
+      "distractors": [
+        "3.33",
+        "3 1/3",
+        "3.333..."
+      ]
+    }
+  },
+  "eedi_763": {
+    "0": {
+      "question": "What is the value of ‘(3 + 2)^2’?",
+      "answer": "25",
+      "distractors": [
+        "13",
+        "10",
+        "9"
+      ]
+    },
+    "1": {
+      "question": "What does the exponent 2 mean when applied to a number?",
+      "answer": "Multiply the number by itself",
+      "distractors": [
+        "Add the number to itself",
+        "Divide the number by 2",
+        "Subtract 2 from the number"
+      ]
+    },
+    "2": {
+      "question": "What is the simplified form of (2/3)^4?",
+      "answer": "16/81",
+      "distractors": [
+        "8/12",
+        "2/81",
+        "16/3"
+      ]
+    },
+    "3": {
+      "question": "What is the correct procedure for computing the square of an integer?",
+      "answer": "Multiply the integer by itself",
+      "distractors": [
+        "Add the integer to itself",
+        "Divide the integer by 2",
+        "Subtract 1 from the integer and then multiply by 2"
+      ]
+    },
+    "4": {
+      "question": "What is the value of 8 squared?",
+      "answer": "64",
+      "distractors": [
+        "56",
+        "72",
+        "68"
+      ]
+    },
+    "5": {
+      "question": "What is the value of 9 squared?",
+      "answer": "81",
+      "distractors": [
+        "72",
+        "82",
+        "90"
+      ]
+    },
+    "6": {
+      "question": "What is the result of applying the power rule to the fraction (a/b)^2?",
+      "answer": "a^2 / b^2",
+      "distractors": [
+        "a / b^2",
+        "a^2 / b",
+        "a + b^2"
+      ]
+    },
+    "7": {
+      "question": "Which of the following is the correct way to simplify the fraction 18/24?",
+      "answer": "Divide both the numerator and denominator by their greatest common factor, which is 6, resulting in 3/4.",
+      "distractors": [
+        "Add 6 to both the numerator and denominator to get 24/30.",
+        "Multiply both the numerator and denominator by 2 to get 36/48.",
+        "Subtract 6 from both the numerator and denominator to get 12/18."
+      ]
+    },
+    "8": {
+      "question": "Which of the following fractions is already in lowest terms because the numerator and denominator have no common prime factors?",
+      "answer": "64/81",
+      "distractors": [
+        "48/64",
+        "81/108",
+        "36/81"
+      ]
+    },
+    "9": {
+      "question": "What is the result of (8/9) squared?",
+      "answer": "64/81",
+      "distractors": [
+        "16/18",
+        "8/18",
+        "64/9"
+      ]
+    }
+  },
+  "eedi_932": {
+    "0": {
+      "question": "What does the number written under a tick mark on a number line represent?",
+      "answer": "The numeric value at that point on the line",
+      "distractors": [
+        "The distance between two consecutive tick marks",
+        "The label for the next tick mark",
+        "The number of tick marks to the left of that point"
+      ]
+    },
+    "1": {
+      "question": "On a number line model, a tick labeled '1' has the number 8 written beneath it. What does this indicate about the length of one unit interval?",
+      "answer": "One unit interval represents the value 8.",
+      "distractors": [
+        "One unit interval represents the value 1.",
+        "The number 8 is the total length of the entire number line.",
+        "The tick labeled '1' means the number line starts at 8."
+      ]
+    },
+    "2": {
+      "question": "On a number line, the point 0 is marked at the left end and the point 12 is marked at the right end. The segment between 0 and 12 is divided into 4 equal intervals. What is the value at the third interval mark (not including 0)?",
+      "answer": "9",
+      "distractors": [
+        "6",
+        "8",
+        "10"
+      ]
+    },
+    "3": {
+      "question": "A farmer has 6 rows of apple trees, and each row produces 12 apples. What is the total number of apples produced?",
+      "answer": "72",
+      "distractors": [
+        "62",
+        "18",
+        "60"
+      ]
+    },
+    "4": {
+      "question": "Which of the following shows the correct way to think about 4 × 8 using repeated addition?",
+      "answer": "8 + 8 + 8 + 8",
+      "distractors": [
+        "4 + 4 + 4 + 4 + 4 + 4 + 4 + 4",
+        "4 × 4 × 4 × 4 × 4 × 4 × 4 × 4",
+        "8 × 8 × 8 × 8"
+      ]
+    },
+    "5": {
+      "question": "A number line starts at 0 and has 5 equal intervals, each of size 3. What is the value at the endpoint of the number line?",
+      "answer": "15",
+      "distractors": [
+        "8",
+        "12",
+        "20"
+      ]
+    },
+    "6": {
+      "question": "In the following equation, the star (★) represents a number. If ★ + 5 = 12, what is the value of ★?",
+      "answer": "7",
+      "distractors": [
+        "5",
+        "12",
+        "17"
+      ]
+    },
+    "7": {
+      "question": "Two models, one represented by a star and the other by a circle, both have the same overall length. If the star model ends at 32, what value must the circle model end at to represent the same total value?",
+      "answer": "32",
+      "distractors": [
+        "16",
+        "64",
+        "0"
+      ]
+    },
+    "8": {
+      "question": "A number line goes from 0 to 32 and is divided into 8 equal intervals. What is the size of each interval?",
+      "answer": "4",
+      "distractors": [
+        "8",
+        "32",
+        "256"
+      ]
+    },
+    "9": {
+      "question": "If 24 apples are divided equally into 6 baskets, how many apples are in each basket? Use the inverse relationship between multiplication and division to solve.",
+      "answer": "24 ÷ 6 = 4",
+      "distractors": [
+        "24 × 6 = 144",
+        "6 ÷ 24 = 0.25",
+        "24 + 6 = 30"
+      ]
+    },
+    "10": {
+      "question": "Which of the following best explains why 4 × 8 and 8 × 4 result in the same product?",
+      "answer": "They represent different groupings (4 groups of 8 or 8 groups of 4) but yield the same total number of items.",
+      "distractors": [
+        "4 × 8 is always larger than 8 × 4 because 4 comes first.",
+        "The order of numbers in multiplication changes the total when using different numbers.",
+        "Multiplying 4 by 8 is the same as adding 4 and 8, so the order doesn't matter."
+      ]
+    },
+    "11": {
+      "question": "In the diagram, the heart symbol represents 4, the star symbol represents 32, and the circle symbol represents 32. If you compute the total value of one heart, one star, and one circle, what is the result?",
+      "answer": "68",
+      "distractors": [
+        "36",
+        "64",
+        "72"
+      ]
+    },
+    "12": {
+      "question": "Given the assigned values: star = 32, circle = 32, heart = 4, which option correctly matches these values?",
+      "answer": "A: star=32, circle=32, heart=4",
+      "distractors": [
+        "B: star=32, circle=4, heart=32",
+        "C: star=4, circle=32, heart=32",
+        "D: star=32, circle=4, heart=4"
+      ]
+    }
+  },
+  "eedi_707": {
+    "0": {
+      "question": "What does the term 'product' mean in mathematics?",
+      "answer": "The result of multiplying two numbers together",
+      "distractors": [
+        "The result of adding two numbers together",
+        "The result of subtracting one number from another",
+        "The result of dividing one number by another"
+      ]
+    },
+    "1": {
+      "question": "What is the result of multiplying -5 by 3?",
+      "answer": "A negative number",
+      "distractors": [
+        "A positive number",
+        "Zero",
+        "An undefined value"
+      ]
+    },
+    "2": {
+      "question": "What is the result of multiplying -3 and -4?",
+      "answer": "12",
+      "distractors": [
+        "-12",
+        "7",
+        "-7"
+      ]
+    },
+    "3": {
+      "question": "Which pair of integers will result in a product of -24?",
+      "answer": "6 and -4",
+      "distractors": [
+        "-6 and -4",
+        "8 and 3",
+        "12 and 2"
+      ]
+    },
+    "4": {
+      "question": "What is the absolute value of -7?",
+      "answer": "7",
+      "distractors": [
+        "-7",
+        "0",
+        "14"
+      ]
+    },
+    "5": {
+      "question": "Which of the following pairs of numbers, when multiplied, equals -24?",
+      "answer": "6 and -4",
+      "distractors": [
+        "3 and 8",
+        "4 and 6",
+        "-3 and -8"
+      ]
+    },
+    "6": {
+      "question": "What is the product of 4 and 6?",
+      "answer": "24",
+      "distractors": [
+        "18",
+        "20",
+        "30"
+      ]
+    },
+    "7": {
+      "question": "Compute (-4) × 6 by applying the sign rules to the absolute-value product. Which of the following is the correct result?",
+      "answer": "-24",
+      "distractors": [
+        "24",
+        "10",
+        "-10"
+      ]
+    },
+    "8": {
+      "question": "What is the result of (-3) × (-8)?",
+      "answer": "24",
+      "distractors": [
+        "-24",
+        "11",
+        "-11"
+      ]
+    },
+    "9": {
+      "question": "What is the result of (-10) × (-12)?",
+      "answer": "120",
+      "distractors": [
+        "-120",
+        "22",
+        "-22"
+      ]
+    },
+    "10": {
+      "question": "What is the result of (-3) × 9?",
+      "answer": "-27",
+      "distractors": [
+        "27",
+        "12",
+        "-12"
+      ]
+    },
+    "11": {
+      "question": "Which pair of integers, when multiplied, equals -24?",
+      "answer": "6 and -4",
+      "distractors": [
+        "3 and 8",
+        "4 and 6",
+        "-5 and 5"
+      ]
+    },
+    "12": {
+      "question": "Which pair of numbers, when multiplied together, gives a product of -24?",
+      "answer": "-4 and 6",
+      "distractors": [
+        "-3 and 8",
+        "4 and 6",
+        "6 and 4"
+      ]
+    }
+  },
+  "eedi_626": {
+    "0": {
+      "question": "Which of the following best describes the meaning of the phrase 'for every positive integer n' in a mathematical statement?",
+      "answer": "The statement must be true for all positive integers, no matter how large or small.",
+      "distractors": [
+        "The statement is only true for n = 1.",
+        "The statement is true for some, but not necessarily all, positive integers.",
+        "The statement is true only when n is even."
+      ]
+    },
+    "1": {
+      "question": "Which of the following best defines a multiple of 6?",
+      "answer": "A number m is a multiple of 6 if there exists an integer k such that m = 6 × k.",
+      "distractors": [
+        "A number m is a multiple of 6 if it is divisible by both 2 and 3.",
+        "A number m is a multiple of 6 if it ends in an even digit.",
+        "A number m is a multiple of 6 if it is greater than 6 and divisible by 2."
+      ]
+    },
+    "2": {
+      "question": "Which of the following statements correctly defines divisibility?",
+      "answer": "A number a is divisible by b if dividing a by b yields an integer quotient and remainder 0.",
+      "distractors": [
+        "A number a is divisible by b if a is greater than b.",
+        "A number a is divisible by b if a divided by b results in a decimal.",
+        "A number a is divisible by b if b is a factor of a, regardless of the quotient."
+      ]
+    },
+    "3": {
+      "question": "Which of the following is the correct method to disprove a universal claim such as 'All swans are white'?",
+      "answer": "Provide one example of a swan that is not white.",
+      "distractors": [
+        "Prove that all swans are white using a mathematical formula.",
+        "Collect data on 100 swans and show that 99 are white.",
+        "Argue that the claim is based on outdated information."
+      ]
+    },
+    "4": {
+      "question": "Which of the following is the best strategy to determine if the statement 'For all integers n, n^2 + n is even' is true?",
+      "answer": "Test the statement with small integer values like n = 1, n = 2, and n = 3 to look for a counterexample.",
+      "distractors": [
+        "Assume the statement is true because it works for n = 0.",
+        "Prove it algebraically by factoring n^2 + n as n(n+1).",
+        "Check only negative integers like n = -1, n = -2 to see if the pattern holds."
+      ]
+    },
+    "5": {
+      "question": "Which of the following best explains why 7 is not a multiple of 6?",
+      "answer": "7 ÷ 6 leaves a remainder of 1, so 7 cannot be written as 6 × an integer.",
+      "distractors": [
+        "7 is less than 6, so it cannot be a multiple of 6.",
+        "7 is a prime number, so it cannot be a multiple of any number other than 1 and itself.",
+        "6 × 1 = 6 and 6 × 2 = 12, so 7 is skipped and therefore not a multiple of 6."
+      ]
+    },
+    "6": {
+      "question": "Which of the following statements best explains why 6 × n is always a multiple of 6?",
+      "answer": "Because 6 × n equals 6 times an integer, which by definition is a multiple of 6.",
+      "distractors": [
+        "Because multiplying by 6 always results in an even number.",
+        "Because n must be a multiple of 6 for the product to be a multiple of 6.",
+        "Because 6 × n is always divisible by 3, so it must be a multiple of 6."
+      ]
+    },
+    "7": {
+      "question": "Which of the following is the correct algebraic proof technique to show that an expression is always a multiple of 6?",
+      "answer": "Factor the expression into the form 6 × (integer)",
+      "distractors": [
+        "Multiply the expression by 6 to check divisibility",
+        "Divide the expression by 6 and check if the result is an integer",
+        "Add 6 to the expression and see if it remains unchanged"
+      ]
+    },
+    "8": {
+      "question": "Which of the following statements is true about the expression 6 + n being a multiple of 6?",
+      "answer": "6 + n is a multiple of 6 if and only if n is a multiple of 6.",
+      "distractors": [
+        "6 + n is a multiple of 6 if and only if n is even.",
+        "6 + n is a multiple of 6 if and only if n is divisible by 3.",
+        "6 + n is a multiple of 6 if and only if n is greater than 6."
+      ]
+    },
+    "9": {
+      "question": "Tom claims that for all real numbers x, the expression x² + 1 is always greater than x. Katie claims that for all real numbers x, the expression x² + 1 is always greater than or equal to 1. Which of the following best supports the conclusion that only Katie is correct?",
+      "answer": "A counterexample showing that Tom's claim is false (e.g., x = 0.5, where x² + 1 = 1.25 > 0.5, but Tom's claim is about being greater than x, which is true in this case — wait, let’s fix this)",
+      "distractors": [
+        "A counterexample showing that Tom's claim is false (e.g., x = 0.5, where x² + 1 = 1.25, which is greater than x, so Tom’s claim holds — this is not a counterexample)",
+        "An algebraic proof showing that x² + 1 is always greater than x for all real x",
+        "A graph showing that x² + 1 is always above the line y = x"
+      ]
+    }
+  },
+  "eedi_92": {
+    "0": {
+      "question": "In the given diagram, which of the following best describes the shaded region in relation to the hatched part?",
+      "answer": "The shaded region is a rectangle that does not overlap with the hatched part.",
+      "distractors": [
+        "The shaded region is part of the hatched area and shares boundaries with it.",
+        "The shaded region is a triangle that overlaps with the hatched part.",
+        "The shaded region and the hatched part together form a single composite shape."
+      ]
+    },
+    "1": {
+      "question": "What is the formula for calculating the area of a rectangle?",
+      "answer": "width × height",
+      "distractors": [
+        "length + width",
+        "width ÷ height",
+        "length × width + 2"
+      ]
+    },
+    "2": {
+      "question": "In the diagram, the top total width is labeled as 20 units, and the right hatched section is labeled as 6 units. What is the width of the non-hatched portion on the top?",
+      "answer": "14",
+      "distractors": [
+        "6",
+        "26",
+        "10"
+      ]
+    },
+    "3": {
+      "question": "A rectangle has a total width of 25 cm. A portion of it is hatched and measures 9 cm. What is the width of the shaded part?",
+      "answer": "16 cm",
+      "distractors": [
+        "34 cm",
+        "14 cm",
+        "9 cm"
+      ]
+    },
+    "4": {
+      "question": "What is the area of a rectangle with a width of 14 units and a height of 8 units?",
+      "answer": "14 × 8",
+      "distractors": [
+        "14 + 8",
+        "14 - 8",
+        "14 ÷ 8"
+      ]
+    },
+    "5": {
+      "question": "Which expression is equivalent to 5 × (8 − 3)?",
+      "answer": "5 × 8 − 5 × 3",
+      "distractors": [
+        "5 × 8 − 3",
+        "5 × 8 − 5 × 8",
+        "5 × (8 + 3)"
+      ]
+    },
+    "6": {
+      "question": "Apply the distributive property to express 8 × (20 − 6). Which of the following is the correct equivalent expression?",
+      "answer": "8 × 20 − 8 × 6",
+      "distractors": [
+        "8 × 20 + 8 × 6",
+        "8 × (20 + 6)",
+        "8 + (20 − 6)"
+      ]
+    },
+    "7": {
+      "question": "What is the result of 8 × 26?",
+      "answer": "208",
+      "distractors": [
+        "160",
+        "48",
+        "200"
+      ]
+    },
+    "8": {
+      "question": "What is the result of 160 − 48?",
+      "answer": "112",
+      "distractors": [
+        "102",
+        "122",
+        "118"
+      ]
+    },
+    "9": {
+      "question": "Which expression is equivalent to 7 × 15?",
+      "answer": "7 × 20 − 7 × 5",
+      "distractors": [
+        "7 × 10 + 7 × 5",
+        "7 × 15 + 7 × 1",
+        "7 × 10 − 7 × 5"
+      ]
+    },
+    "10": {
+      "question": "Which expression is equivalent to 3(x + 4) - 2x?",
+      "answer": "x + 12",
+      "distractors": [
+        "3x + 4",
+        "x + 4",
+        "5x + 12"
+      ]
+    },
+    "11": {
+      "question": "A rectangle has a length of 8 units and a width of 14 units. Which calculation correctly verifies the area of the rectangle?",
+      "answer": "8 × 14 = 112",
+      "distractors": [
+        "8 + 14 = 22",
+        "8 ÷ 14 ≈ 0.57",
+        "14 - 8 = 6"
+      ]
+    }
+  },
+  "eedi_427": {
+    "0": {
+      "question": "Which of the following best explains what the fraction 3/4 means?",
+      "answer": "It represents 3 parts, each of size 1/4, where the whole is divided into 4 equal parts.",
+      "distractors": [
+        "It means 3 divided by 4, and the result is a decimal.",
+        "It shows that 3 is the total number of parts and 4 is the size of each part.",
+        "It indicates that 4 parts are taken from a whole that is divided into 3 equal parts."
+      ]
+    },
+    "1": {
+      "question": "Which of the following statements is true about unit fractions?",
+      "answer": "The larger the denominator, the smaller the unit fraction.",
+      "distractors": [
+        "The larger the denominator, the larger the unit fraction.",
+        "Unit fractions are always equal to 1, regardless of the denominator.",
+        "The size of a unit fraction does not depend on the denominator."
+      ]
+    },
+    "2": {
+      "question": "Which fraction is larger: 3/4 or 3/8?",
+      "answer": "3/4",
+      "distractors": [
+        "3/8",
+        "They are equal",
+        "Cannot be determined"
+      ]
+    },
+    "3": {
+      "question": "Which fraction is larger: 3/7 or 5/7?",
+      "answer": "5/7, because it has a larger numerator and the same denominator, meaning it represents more equal-sized parts.",
+      "distractors": [
+        "3/7, because it has a smaller numerator and is therefore simpler.",
+        "5/7, because the denominator is smaller than in 3/7.",
+        "3/7, because the numerator is closer to the denominator."
+      ]
+    },
+    "4": {
+      "question": "Which of the following is true when comparing the fractions 3/7 and 5/8?",
+      "answer": "3/7 < 5/8 because 3×8 = 24 and 7×5 = 35, and 24 < 35",
+      "distractors": [
+        "3/7 > 5/8 because 3×8 = 24 and 7×5 = 35, and 24 > 35",
+        "3/7 = 5/8 because 3×8 = 24 and 7×5 = 35, and 24 = 35",
+        "3/7 < 5/8 because 7×3 = 21 and 8×5 = 40, and 21 < 40"
+      ]
+    },
+    "5": {
+      "question": "Which of the following pairs of fractions shares the same numerator?",
+      "answer": "5/11 and 5/12",
+      "distractors": [
+        "3/8 and 4/8",
+        "7/9 and 7/10",
+        "2/5 and 3/5"
+      ]
+    },
+    "6": {
+      "question": "Which fraction is greater: 7/9 or 7/13? Explain your reasoning using the same-numerator rule.",
+      "answer": "7/9 is greater than 7/13 because, with the same numerator (7), the fraction with the smaller denominator (9) is larger.",
+      "distractors": [
+        "7/13 is greater because 13 is larger than 9.",
+        "7/9 is greater because 9 is closer to 7 than 13 is.",
+        "Both fractions are equal because they have the same numerator."
+      ]
+    },
+    "7": {
+      "question": "Which of the following correctly uses cross-multiplication to verify that 5/11 > 5/12?",
+      "answer": "Compute 5 × 12 and 5 × 11, then compare the results.",
+      "distractors": [
+        "Compute 5 × 5 and 11 × 12, then compare the results.",
+        "Compute 11 × 12 and 5 × 5, then compare the results.",
+        "Compute 5 ÷ 11 and 5 ÷ 12, then compare the results."
+      ]
+    },
+    "8": {
+      "question": "Which of the following pairs of fractions shares the same denominator?",
+      "answer": "5/11 and 6/11",
+      "distractors": [
+        "3/7 and 4/9",
+        "2/5 and 3/5",
+        "1/3 and 2/6"
+      ]
+    },
+    "9": {
+      "question": "Which of the following is true when comparing 5/11 and 6/11?",
+      "answer": "5/11 < 6/11",
+      "distractors": [
+        "5/11 > 6/11",
+        "5/11 = 6/11",
+        "6/11 < 5/11"
+      ]
+    },
+    "10": {
+      "question": "After analyzing pairwise comparisons between Tom, Sarah, and Alex's claims, which conclusion is correct based on the evidence?",
+      "answer": "Only Tom is correct",
+      "distractors": [
+        "Tom and Sarah are correct",
+        "Sarah and Alex are correct",
+        "All three are correct"
+      ]
+    }
+  },
+  "eedi_520": {
+    "0": {
+      "question": "Which of the following statements is true about a linear pair of angles?",
+      "answer": "Their measures add up to 180°",
+      "distractors": [
+        "Their measures are always equal",
+        "They are always complementary",
+        "They must be vertical angles"
+      ]
+    },
+    "1": {
+      "question": "Which of the following statements correctly defines supplementary angles?",
+      "answer": "Two angles are supplementary if their measures add up to 180°.",
+      "distractors": [
+        "Two angles are supplementary if their measures add up to 90°.",
+        "Two angles are supplementary if they are adjacent and form a straight line.",
+        "Two angles are supplementary if they are equal in measure."
+      ]
+    },
+    "2": {
+      "question": "When two straight lines intersect, which of the following statements is true about the vertical (opposite) angles formed?",
+      "answer": "They are equal in measure.",
+      "distractors": [
+        "They are supplementary (add up to 180 degrees).",
+        "They are always acute angles.",
+        "They are complementary (add up to 90 degrees)."
+      ]
+    },
+    "3": {
+      "question": "Which of the following statements correctly describes a linear pair of angles?",
+      "answer": "They are adjacent angles that share a common vertex and side, and lie on opposite sides of the common side.",
+      "distractors": [
+        "They are any two angles that share a common vertex.",
+        "They are adjacent angles that share a common vertex and side, but must be congruent.",
+        "They are two angles that add up to 90 degrees and share a common side."
+      ]
+    },
+    "4": {
+      "question": "If two lines intersect and form one 90° angle, what must be true about the other angles formed at the intersection?",
+      "answer": "All four angles formed are 90°",
+      "distractors": [
+        "Only the opposite angle is 90°, the adjacent angles are different",
+        "The adjacent angles are 180°, and the opposite angle is 90°",
+        "The adjacent angles are 45°, and the opposite angle is 90°"
+      ]
+    },
+    "5": {
+      "question": "Which of the following pairs of angles are supplementary based on angle arithmetic?",
+      "answer": "120° and 60°",
+      "distractors": [
+        "45° and 45°",
+        "90° and 90°",
+        "30° and 60°"
+      ]
+    },
+    "6": {
+      "question": "Which of the following steps correctly describes how to test whether a diagram can represent a straight line?",
+      "answer": "Identify the adjacent angles along the line and check if their sum equals 180°.",
+      "distractors": [
+        "Measure all angles in the diagram and ensure each is less than 90°.",
+        "Check if the angles are all congruent to each other.",
+        "Add the measures of all angles in the diagram and verify the total is 360°."
+      ]
+    },
+    "7": {
+      "question": "Two lines intersect, forming four angles. One pair of vertical angles is labeled as 45° and 55°. What can be concluded about this labeling?",
+      "answer": "The labeling is inconsistent because vertical angles must be equal.",
+      "distractors": [
+        "The labeling is correct because vertical angles can have different measures.",
+        "The labeling is acceptable as long as the adjacent angles sum to 180°.",
+        "The labeling is valid because only one angle in each pair needs to be labeled."
+      ]
+    },
+    "8": {
+      "question": "Two adjacent angles are labeled as 100° and 85° at a common vertex. Which of the following statements is correct based on the definition of a linear pair?",
+      "answer": "The angles cannot form a linear pair because their sum is not 180°.",
+      "distractors": [
+        "The angles can form a linear pair if they are on opposite sides of the vertex.",
+        "The angles form a linear pair because they are adjacent and share a common side.",
+        "The angles are supplementary, so they must be a linear pair regardless of their position."
+      ]
+    },
+    "9": {
+      "question": "In the diagram below, angles A, B, and C are adjacent and share a common vertex. Angle A is labeled as 50°, angle B is labeled as 70°, and angle C is labeled as 60°. Which of the following statements is true regarding the possibility of a straight line being formed by any two of these angles?",
+      "answer": "A straight line can be formed by angles B and C, since their sum is 130°, and the remaining angle (A) is not part of that linear pair.",
+      "distractors": [
+        "A straight line cannot exist in the diagram because the labeled angles do not sum to 180°.",
+        "The labeled angles prevent any straight line from existing, regardless of which angles are adjacent.",
+        "Only angles A and B can form a straight line because they are labeled, and the diagram implies they are linear partners."
+      ]
+    },
+    "10": {
+      "question": "Which of the following angle pairs are supplementary and could form a straight line?",
+      "answer": "53° and 127°",
+      "distractors": [
+        "30° and 60°",
+        "45° and 45°",
+        "90° and 90°"
+      ]
+    },
+    "11": {
+      "question": "Which of the following statements correctly explains why point B cannot represent a straight line based on the labeled angles?",
+      "answer": "The sum of the labeled angles at point B is 200°, which is not 180°, so they are not supplementary and cannot form a straight line.",
+      "distractors": [
+        "The angles at point B are equal, so they must be vertical angles, not a straight line.",
+        "The angles at point B are both acute, so they cannot form a straight line.",
+        "The angles at point B are labeled in degrees, but the unit does not matter for straight lines."
+      ]
+    },
+    "12": {
+      "question": "Two labeled 90° angles are placed adjacent to each other, sharing a common side. What geometric figure do they form together?",
+      "answer": "A straight line",
+      "distractors": [
+        "A right triangle",
+        "A square",
+        "A circle"
+      ]
+    },
+    "13": {
+      "question": "In the diagram below, two angles are labeled: ∠A = 50° and ∠B = 130°. These angles lie on a straight line. Which pair of angles should be checked as forming a linear pair (i.e., angles along a straight line) before performing arithmetic checks to verify if they are supplementary?",
+      "answer": "∠A and ∠B",
+      "distractors": [
+        "∠A and ∠C (where ∠C is not on the same line)",
+        "∠B and ∠D (where ∠D is adjacent but not on the same straight line)",
+        "∠A and ∠A (same angle, not a pair)"
+      ]
+    }
+  },
+  "eedi_434": {
+    "0": {
+      "question": "Which of the following best defines a tessellation?",
+      "answer": "A covering of the plane by shapes with no gaps or overlaps",
+      "distractors": [
+        "A pattern of shapes that repeat in a circular motion",
+        "A design made by overlapping shapes to create a 3D effect",
+        "A collection of random shapes arranged without any specific pattern"
+      ]
+    },
+    "1": {
+      "question": "Which of the following best describes congruent shapes?",
+      "answer": "Two shapes are congruent if one can be moved by translation, rotation, or reflection to match the other exactly.",
+      "distractors": [
+        "Congruent shapes must have the same area but can differ in shape.",
+        "Congruent shapes are identical in size and shape, but only if they are in the same position.",
+        "Congruent shapes must be the same color and orientation to be considered congruent."
+      ]
+    },
+    "2": {
+      "question": "What is the effect of a 180° rotation around a point on a geometric shape?",
+      "answer": "It maps the shape to a congruent copy reversed across that point, preserving side lengths and angles.",
+      "distractors": [
+        "It enlarges the shape while keeping angles the same.",
+        "It flips the shape over a line, changing its orientation but not its size.",
+        "It moves the shape without rotating it, preserving its orientation and size."
+      ]
+    },
+    "3": {
+      "question": "Two congruent triangles share a whole side, and one is the reflection of the other across that side. What shape do the two triangles together form?",
+      "answer": "A parallelogram",
+      "distractors": [
+        "A rectangle",
+        "An isosceles triangle",
+        "A rhombus"
+      ]
+    },
+    "4": {
+      "question": "Which of the following statements is true about the opposite sides of a parallelogram?",
+      "answer": "They are parallel and equal in length",
+      "distractors": [
+        "They are perpendicular and equal in length",
+        "They are parallel but not necessarily equal in length",
+        "They are equal in length but not necessarily parallel"
+      ]
+    },
+    "5": {
+      "question": "Which of the following best explains why a parallelogram can tile the plane?",
+      "answer": "Repeating the parallelogram by translating it in two independent directions fills the plane without gaps or overlaps.",
+      "distractors": [
+        "A parallelogram can tile the plane because all its angles are 90 degrees.",
+        "A parallelogram tiles the plane because it can be rotated 180 degrees to fit perfectly with itself.",
+        "A parallelogram can tile the plane only if it is a rectangle or rhombus."
+      ]
+    },
+    "6": {
+      "question": "Which of the following statements is true regarding tessellation based on combining shapes?",
+      "answer": "If smaller shapes can be combined to form a larger shape that tiles the plane, then the original smaller shape also tessellates.",
+      "distractors": [
+        "If a shape can be combined with others to form a larger shape, it must be able to tile the plane on its own.",
+        "Only regular polygons can tessellate, regardless of how they are combined.",
+        "A shape that cannot tile the plane on its own cannot be part of any tiling, even when combined with copies of itself."
+      ]
+    },
+    "7": {
+      "question": "Which of the following best describes the construction principle for triangles that allows tiling the plane?",
+      "answer": "Reflecting or pairing two identical triangles across a shared side produces a parallelogram that can be translated to tile the plane.",
+      "distractors": [
+        "Rotating a triangle 180 degrees around its centroid creates a tiling pattern.",
+        "Connecting the midpoints of a triangle's sides forms a smaller triangle that tiles the plane.",
+        "Placing three identical triangles together at a common vertex forms a hexagon that can tile the plane."
+      ]
+    },
+    "8": {
+      "question": "When a quadrilateral is rotated 180° about the midpoint of one of its sides, what happens to the rotated copy?",
+      "answer": "It forms a congruent quadrilateral that fits exactly against the original along that side with no gaps or overlaps.",
+      "distractors": [
+        "It creates a new quadrilateral that is larger than the original.",
+        "It results in a shape that overlaps partially but does not align perfectly with the original side.",
+        "It produces a non-congruent quadrilateral that does not fit against the original side."
+      ]
+    },
+    "9": {
+      "question": "Which of the following best describes how a block of quadrilateral copies can be assembled to tile the plane using 180° rotations?",
+      "answer": "By rotating 180° about midpoints of sides and translating the pieces to align opposite edges",
+      "distractors": [
+        "By rotating 90° about vertices and reflecting across diagonals",
+        "By translating the quadrilaterals without any rotation",
+        "By rotating 180° about the center of the quadrilateral and reflecting across sides"
+      ]
+    },
+    "10": {
+      "question": "Which of the following best explains why repeatedly translating a tile can produce a regular tiling pattern?",
+      "answer": "Translation preserves shapes and edge alignments, so if opposite sides of the tile match, the pattern will fit together without gaps or overlaps.",
+      "distractors": [
+        "Translation changes the size of the tile, allowing it to fit into different spaces.",
+        "Translation rotates the tile slightly with each move, creating a spiral pattern.",
+        "Translation only works for square tiles, so other shapes cannot form regular tilings."
+      ]
+    },
+    "11": {
+      "question": "Which of the following best demonstrates that a class of shapes tessellates?",
+      "answer": "Providing a general construction method that works for any shape in the class",
+      "distractors": [
+        "Showing that one specific shape from the class can tile the plane",
+        "Proving that all shapes in the class are congruent",
+        "Demonstrating that the shapes have equal angles"
+      ]
+    },
+    "12": {
+      "question": "Which of the following is a standard method to create a tessellation using a single shape?",
+      "answer": "Creating a small repeatable unit by arranging copies of the shape, such as a parallelogram, that can be repeated to cover a plane without gaps or overlaps",
+      "distractors": [
+        "Rotating the shape 90 degrees and placing it randomly across the plane",
+        "Scaling the shape larger and smaller to fill different areas",
+        "Drawing the shape in different colors to make it visually appealing"
+      ]
+    },
+    "13": {
+      "question": "Which of the following best explains why both triangles and quadrilaterals can tessellate the plane?",
+      "answer": "Triangles can be paired to form parallelograms, and quadrilaterals can be arranged into repeatable blocks, allowing both to tessellate.",
+      "distractors": [
+        "Only regular polygons can tessellate, so triangles and quadrilaterals must be regular to work.",
+        "Triangles and quadrilaterals tessellate because they have fewer sides than pentagons.",
+        "Tessellation is only possible if the shapes are congruent, so only identical triangles or quadrilaterals can be used."
+      ]
+    }
+  },
+  "eedi_764": {
+    "0": {
+      "question": "What is the correct way to determine how much hotter or colder one temperature is compared to another?",
+      "answer": "Compute the numerical difference between the two temperatures.",
+      "distractors": [
+        "Add the two temperatures together to find the average.",
+        "Multiply the two temperatures to find the relative difference.",
+        "Subtract the higher temperature from the lower one and ignore the sign."
+      ]
+    },
+    "1": {
+      "question": "Temperature A is 32°C and Temperature B is 18°C. How much hotter is Temperature A than Temperature B?",
+      "answer": "14°C",
+      "distractors": [
+        "-14°C",
+        "46°C",
+        "18°C"
+      ]
+    },
+    "2": {
+      "question": "What does -7°C mean?",
+      "answer": "Seven degrees below zero",
+      "distractors": [
+        "Seven degrees above zero",
+        "Seven degrees Celsius in the morning",
+        "Seven degrees Fahrenheit"
+      ]
+    },
+    "3": {
+      "question": "What is the result of 7 - (-3)?",
+      "answer": "10",
+      "distractors": [
+        "4",
+        "-10",
+        "7 - 3"
+      ]
+    },
+    "4": {
+      "question": "What is the correct application of the sign rule to the expression 5 - (-7)?",
+      "answer": "5 + 7",
+      "distractors": [
+        "5 - 7",
+        "5 + (-7)",
+        "-5 + 7"
+      ]
+    },
+    "5": {
+      "question": "What is the sum of 5 and 7?",
+      "answer": "12",
+      "distractors": [
+        "10",
+        "13",
+        "15"
+      ]
+    },
+    "6": {
+      "question": "A temperature difference of +15°C is computed between two temperatures. Which of the following correctly interprets this result?",
+      "answer": "The higher temperature is 15°C warmer than the lower temperature.",
+      "distractors": [
+        "The lower temperature is 15°C warmer than the higher temperature.",
+        "The two temperatures are 15°C apart, but it is unclear which is warmer.",
+        "The average of the two temperatures is 15°C."
+      ]
+    },
+    "7": {
+      "question": "Which of the following statements correctly expresses that 5°C is 12°C hotter than -7°C?",
+      "answer": "5°C is 12°C hotter than -7°C",
+      "distractors": [
+        "5°C is 12°C colder than -7°C",
+        "5°C is 2°C hotter than -7°C",
+        "-7°C is 12°C hotter than 5°C"
+      ]
+    }
+  },
+  "eedi_314": {
+    "0": {
+      "question": "Which of the following best describes what the equals sign (=) means in an equation?",
+      "answer": "Both sides of the equation represent the same number.",
+      "distractors": [
+        "The equals sign means you should add the numbers on the left and right.",
+        "The equals sign indicates that the left side is greater than the right side.",
+        "The equals sign tells you to subtract the right side from the left side."
+      ]
+    },
+    "1": {
+      "question": "What should you do when you see a blank box in an equation like 5 + □ = 12?",
+      "answer": "Replace the blank box with a variable, such as x, to represent the unknown value.",
+      "distractors": [
+        "Ignore the blank box and solve the equation as is.",
+        "Replace the blank box with the number 0.",
+        "Write the word 'unknown' in the box and leave it as is."
+      ]
+    },
+    "2": {
+      "question": "Translate the expression: -3 [box] = -7, where the box represents an addend, into an equation.",
+      "answer": "-3 + x = -7",
+      "distractors": [
+        "-3 - x = -7",
+        "x - 3 = -7",
+        "-3x = -7"
+      ]
+    },
+    "3": {
+      "question": "What is the main goal when solving for an unknown in an equation?",
+      "answer": "Isolate the variable on one side of the equation",
+      "distractors": [
+        "Combine all the constants on one side",
+        "Make the equation equal to zero",
+        "Simplify the coefficients of the variable"
+      ]
+    },
+    "4": {
+      "question": "What is the correct next step to solve the equation -5 + x = -9?",
+      "answer": "x = -9 - (-5)",
+      "distractors": [
+        "x = -9 + 5",
+        "x = -9 + (-5)",
+        "x = -5 - (-9)"
+      ]
+    },
+    "5": {
+      "question": "What is the result of 7 - (-3)?",
+      "answer": "10",
+      "distractors": [
+        "4",
+        "-10",
+        "7"
+      ]
+    },
+    "6": {
+      "question": "What is the result of -7 + 3?",
+      "answer": "-4",
+      "distractors": [
+        "4",
+        "10",
+        "-10"
+      ]
+    },
+    "7": {
+      "question": "What is the result of -9 + 5?",
+      "answer": "-4",
+      "distractors": [
+        "-14",
+        "4",
+        "14"
+      ]
+    },
+    "8": {
+      "question": "After computing the expression 3 - 7, which option correctly matches the result?",
+      "answer": "A",
+      "distractors": [
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    "9": {
+      "question": "Which of the following correctly verifies the solution to the equation -5 + x = -9 by substituting x = -4?",
+      "answer": "-5 + (-4) = -9",
+      "distractors": [
+        "-5 - (-4) = -1",
+        "-5 + 4 = -1",
+        "-4 + 5 = 1"
+      ]
+    }
+  },
+  "eedi_305": {
+    "0": {
+      "question": "Which of the following best defines a regular polygon?",
+      "answer": "A polygon whose sides and angles are all equal",
+      "distractors": [
+        "A polygon with at least one pair of equal sides",
+        "A polygon with all sides equal but angles may vary",
+        "A polygon with all angles equal but sides may vary"
+      ]
+    },
+    "1": {
+      "question": "Which of the following best defines a pentagon?",
+      "answer": "A polygon with five sides",
+      "distractors": [
+        "A polygon with six sides",
+        "A polygon with four sides",
+        "A polygon with three sides"
+      ]
+    },
+    "2": {
+      "question": "Which of the following statements is true about a regular pentagon?",
+      "answer": "It has five equal-length sides.",
+      "distractors": [
+        "It has five sides of different lengths.",
+        "It has four equal-length sides and one different side.",
+        "It has six equal-length sides."
+      ]
+    },
+    "3": {
+      "question": "What is the perimeter of a polygon?",
+      "answer": "The total distance around it, or the sum of its side lengths",
+      "distractors": [
+        "The area inside the polygon",
+        "The number of sides the polygon has",
+        "The length of the longest side of the polygon"
+      ]
+    },
+    "4": {
+      "question": "What does a dashed arrow with '3 cm' next to a side of a diagram indicate?",
+      "answer": "The length of that side is 3 centimeters.",
+      "distractors": [
+        "The side is made of dashed lines and is 3 cm long.",
+        "The side is hidden and measures 3 cm when unfolded.",
+        "The side is not part of the main shape and is 3 cm in length."
+      ]
+    },
+    "5": {
+      "question": "A regular pentagon has one side measuring 5 cm. What can you conclude about the other sides?",
+      "answer": "All sides are 5 cm",
+      "distractors": [
+        "Only two sides are 5 cm",
+        "The other sides are longer than 5 cm",
+        "The other sides are shorter than 5 cm"
+      ]
+    },
+    "6": {
+      "question": "What is the correct representation of the perimeter of a pentagon with each side measuring 3 cm using repeated addition?",
+      "answer": "3 + 3 + 3 + 3 + 3",
+      "distractors": [
+        "3 × 5",
+        "3 + 5",
+        "5 + 5 + 5"
+      ]
+    },
+    "7": {
+      "question": "Which of the following correctly represents 5 × 3 as repeated addition?",
+      "answer": "3 + 3 + 3 + 3 + 3",
+      "distractors": [
+        "5 + 5 + 5",
+        "3 × 5",
+        "5 + 3 + 5 + 3 + 5"
+      ]
+    },
+    "8": {
+      "question": "What is the result of 5 × 3?",
+      "answer": "15",
+      "distractors": [
+        "10",
+        "20",
+        "12"
+      ]
+    },
+    "9": {
+      "question": "When you multiply a length of 15 cm by a count of 3, what are the units of the result?",
+      "answer": "cm",
+      "distractors": [
+        "cm²",
+        "cm³",
+        "dimensionless"
+      ]
+    },
+    "10": {
+      "question": "What is the correct procedure to compute the perimeter of a regular n-gon?",
+      "answer": "Multiply the number of sides n by the length of one side.",
+      "distractors": [
+        "Add the number of sides to the length of one side.",
+        "Divide the number of sides by the length of one side.",
+        "Multiply the number of sides by the area of the polygon."
+      ]
+    },
+    "11": {
+      "question": "A rectangle has a length of 5 cm and a width of 2.5 cm. What is the perimeter of the rectangle?",
+      "answer": "15 cm",
+      "distractors": [
+        "10 cm",
+        "20 cm",
+        "25 cm"
+      ]
+    }
+  },
+  "eedi_307": {
+    "0": {
+      "question": "Which of the following best describes an obtuse angle?",
+      "answer": "An angle greater than 90°",
+      "distractors": [
+        "An angle equal to 90°",
+        "An angle less than 90°",
+        "An angle exactly 45°"
+      ]
+    },
+    "1": {
+      "question": "What does an angle measure given between a line and the horizontal describe?",
+      "answer": "The line’s orientation (tilt) relative to the horizontal reference line",
+      "distractors": [
+        "The length of the line",
+        "The color or thickness of the line",
+        "The direction of motion along the line"
+      ]
+    },
+    "2": {
+      "question": "What does an obtuse angle (greater than 90°) between a line and the horizontal on the left side indicate about the line's direction?",
+      "answer": "The line tilts past vertical and points upward on the left side.",
+      "distractors": [
+        "The line tilts downward on the left side.",
+        "The line is perfectly horizontal.",
+        "The line tilts past vertical and points downward on the left side."
+      ]
+    },
+    "3": {
+      "question": "How should an acute angle between a line and the horizontal on the right side be interpreted if the angle is less than 90°?",
+      "answer": "The line tilts only slightly and points downward on that side.",
+      "distractors": [
+        "The line tilts sharply and points upward on that side.",
+        "The line is vertical and does not tilt at all.",
+        "The line tilts only slightly and points upward on that side."
+      ]
+    },
+    "4": {
+      "question": "Two angles are adjacent and form a straight line. If one angle measures 110°, what is the measure of the other angle?",
+      "answer": "70°",
+      "distractors": [
+        "110°",
+        "90°",
+        "180°"
+      ]
+    },
+    "5": {
+      "question": "When two lines intersect, which of the following statements is true about the angles formed?",
+      "answer": "Vertical (opposite) angles are equal.",
+      "distractors": [
+        "Adjacent angles are always equal.",
+        "All four angles are right angles.",
+        "The sum of any two angles is 180 degrees."
+      ]
+    },
+    "6": {
+      "question": "Which quadrant corresponds to the direction 'down and left'?",
+      "answer": "lower-left",
+      "distractors": [
+        "upper-right",
+        "upper-left",
+        "lower-right"
+      ]
+    },
+    "7": {
+      "question": "To find where two lines intersect relative to the center, which procedure should be followed?",
+      "answer": "Determine the direction each line points from the center and locate the region that is consistent with both directions.",
+      "distractors": [
+        "Measure the distance from the center to each line and add them together.",
+        "Find the midpoint of each line and connect them to the center.",
+        "Rotate both lines until they are parallel and then find their intersection."
+      ]
+    },
+    "8": {
+      "question": "Two lines are drawn on a coordinate plane: one slants up to the left, and the other slants down to the right. Where will they intersect?",
+      "answer": "In the upper-right region",
+      "distractors": [
+        "In the lower-left region",
+        "In the lower-right region",
+        "In the upper-left region"
+      ]
+    },
+    "9": {
+      "question": "Which labeled region on the diagram corresponds to the 'upper-right' position?",
+      "answer": "Region C",
+      "distractors": [
+        "Region A",
+        "Region B",
+        "Region D"
+      ]
+    },
+    "10": {
+      "question": "What happens to a line when its angle value is changed in a coordinate system with a fixed center?",
+      "answer": "The line rotates about the center in the direction implied by the angle measurement.",
+      "distractors": [
+        "The line moves linearly away from the center.",
+        "The line changes length proportionally to the angle change.",
+        "The line flips to the opposite side of the center without rotation."
+      ]
+    },
+    "11": {
+      "question": "After combining directional information from multiple sources, which region should be selected as the intersection region?",
+      "answer": "C",
+      "distractors": [
+        "A",
+        "B",
+        "D"
+      ]
+    }
+  },
+  "eedi_928": {
+    "0": {
+      "question": "A shape is divided into 5 equal parts. How many of these parts must be shaded to represent the fraction 2/5 of the whole shape?",
+      "answer": "2",
+      "distractors": [
+        "3",
+        "5",
+        "1"
+      ]
+    },
+    "1": {
+      "question": "A rectangular grid has 4 rows and 5 columns of equal small squares. How many small squares are in the grid?",
+      "answer": "20",
+      "distractors": [
+        "9",
+        "15",
+        "25"
+      ]
+    },
+    "2": {
+      "question": "How many rows and columns are in the grid shown below? (Note: The grid has 3 horizontal lines of cells and 5 vertical lines of cells.)",
+      "answer": "3 rows and 5 columns",
+      "distractors": [
+        "3 rows and 3 columns",
+        "5 rows and 3 columns",
+        "2 rows and 5 columns"
+      ]
+    },
+    "3": {
+      "question": "A grid has 5 rows and 4 columns. How many equal small squares are in the grid?",
+      "answer": "20",
+      "distractors": [
+        "9",
+        "16",
+        "12"
+      ]
+    },
+    "4": {
+      "question": "What is the product of 3 × 5?",
+      "answer": "15",
+      "distractors": [
+        "10",
+        "20",
+        "8"
+      ]
+    },
+    "5": {
+      "question": "Which of the following best describes what '2/5 of the whole' means?",
+      "answer": "Taking 2 out of every 5 equal parts of the whole",
+      "distractors": [
+        "Dividing the whole into 2 parts and taking 5 of them",
+        "Multiplying the whole by 2 and then dividing by 5",
+        "Taking 5 out of every 2 equal parts of the whole"
+      ]
+    },
+    "6": {
+      "question": "What is the correct procedure to find 3/4 of 20?",
+      "answer": "Multiply 3/4 by 20",
+      "distractors": [
+        "Divide 20 by 3/4",
+        "Add 3/4 and 20",
+        "Subtract 3/4 from 20"
+      ]
+    },
+    "7": {
+      "question": "What is 3/4 of 24 using the equivalent arithmetic strategy (total ÷ denominator) × numerator?",
+      "answer": "18",
+      "distractors": [
+        "21",
+        "16",
+        "20"
+      ]
+    },
+    "8": {
+      "question": "Which of the following shows the correct simplification using the division fact 15 ÷ 5 = 3 before multiplying by the numerator in the expression 15/5 × 2?",
+      "answer": "3 × 2",
+      "distractors": [
+        "15 × 2",
+        "15 ÷ 2",
+        "5 × 2"
+      ]
+    },
+    "9": {
+      "question": "After simplifying the expression 3 × (4 - 2), what is the result?",
+      "answer": "6",
+      "distractors": [
+        "8",
+        "9",
+        "12"
+      ]
+    },
+    "10": {
+      "question": "Which of the following correctly simplifies the expression (2 × 15) ÷ 5?",
+      "answer": "6",
+      "distractors": [
+        "30",
+        "10",
+        "3"
+      ]
+    },
+    "11": {
+      "question": "After solving a math problem, you find the numeric result to be 6. Which answer choice should you select if the options are labeled A, B, C, and D?",
+      "answer": "D",
+      "distractors": [
+        "A",
+        "B",
+        "C"
+      ]
+    }
+  },
+  "eedi_894": {
+    "0": {
+      "question": "What does the label \"7 cm\" on a horizontal line in a diagram indicate?",
+      "answer": "The total length of that straight horizontal segment is 7 centimetres.",
+      "distractors": [
+        "The length of each part of the line if it is divided into segments.",
+        "The height of the line above the baseline.",
+        "The angle the line makes with the vertical axis."
+      ]
+    },
+    "1": {
+      "question": "What does the label \"4 cm\" on a horizontal segment in a diagram indicate?",
+      "answer": "The length of that specific horizontal segment is 4 centimetres.",
+      "distractors": [
+        "The total length of the entire diagram is 4 centimetres.",
+        "The height of the diagram is 4 centimetres.",
+        "The angle formed by the segment is 4 degrees."
+      ]
+    },
+    "2": {
+      "question": "Two line segments, AB and BC, lie end-to-end on the same straight line. If AB = 5 cm and BC = 3 cm, what is the total length of segment AC?",
+      "answer": "8 cm",
+      "distractors": [
+        "2 cm",
+        "15 cm",
+        "3 cm"
+      ]
+    },
+    "3": {
+      "question": "A rope is 15 meters long. One part of the rope is 7 meters. What is the length of the other part?",
+      "answer": "15 = 7 + x",
+      "distractors": [
+        "7 = 15 + x",
+        "x = 15 - 7",
+        "15 = x - 7"
+      ]
+    },
+    "4": {
+      "question": "If the total cost of a book and a pen is $15, and the pen costs $4, what is the cost of the book?",
+      "answer": "11",
+      "distractors": [
+        "4",
+        "19",
+        "15"
+      ]
+    },
+    "5": {
+      "question": "In the given figure, the top horizontal segment has length p, and there is a 4 cm step below it. Together, these two parts span the entire vertical distance of 7 cm. What is the value of p?",
+      "answer": "3 cm",
+      "distractors": [
+        "4 cm",
+        "7 cm",
+        "11 cm"
+      ]
+    },
+    "6": {
+      "question": "What is the result of 7 - 4?",
+      "answer": "3",
+      "distractors": [
+        "4",
+        "11",
+        "2"
+      ]
+    },
+    "7": {
+      "question": "A triangle has sides measuring 5, 12, and 13 centimetres. What is the perimeter of the triangle?",
+      "answer": "30 cm",
+      "distractors": [
+        "30",
+        "30 inches",
+        "30 mm"
+      ]
+    },
+    "8": {
+      "question": "In the given right triangle configuration, you are asked to find the horizontal length p. The triangle has a vertical side of 10 cm, a vertical segment of 3 cm (part of the same side), and a hypotenuse of 13 cm. Which of the following is the correct approach to find p?",
+      "answer": "Use the Pythagorean theorem with the hypotenuse (13 cm) and the total vertical side (10 cm) to find p, ignoring the 3 cm segment.",
+      "distractors": [
+        "Add the 10 cm and 3 cm vertical segments to get 13 cm, then use that as the hypotenuse to find p.",
+        "Use the 3 cm segment and the hypotenuse to find p, since 3 cm is the only vertical measurement directly adjacent to p.",
+        "Subtract 3 cm from 10 cm to get 7 cm, then use 7 cm and the hypotenuse to find p."
+      ]
+    }
+  },
+  "eedi_185": {
+    "0": {
+      "question": "Which of the following correctly interprets the symbol '>' in the expression A > B?",
+      "answer": "A is larger than B",
+      "distractors": [
+        "A is smaller than B",
+        "A is equal to B",
+        "A is less than or equal to B"
+      ]
+    },
+    "1": {
+      "question": "Which of the following correctly interprets the symbol '<' in the expression A < B?",
+      "answer": "A is smaller than B",
+      "distractors": [
+        "A is greater than B",
+        "A is equal to B",
+        "A is not equal to B"
+      ]
+    },
+    "2": {
+      "question": "On a number line, which direction shows increasing values?",
+      "answer": "To the right",
+      "distractors": [
+        "To the left",
+        "Upward",
+        "Downward"
+      ]
+    },
+    "3": {
+      "question": "Which of the following negative numbers is the largest?",
+      "answer": "-1",
+      "distractors": [
+        "-5",
+        "-10",
+        "-2"
+      ]
+    },
+    "4": {
+      "question": "Which of the following statements correctly explains how to determine which of two numbers is greater?",
+      "answer": "The number that lies further to the right on the number line is greater.",
+      "distractors": [
+        "The number with more digits is always greater.",
+        "The number that is closer to zero is greater.",
+        "The number that is farther to the left on the number line is greater."
+      ]
+    },
+    "5": {
+      "question": "What does the chained statement 'X > Y > Z' mean in terms of comparisons?",
+      "answer": "It means both X > Y and Y > Z must be true.",
+      "distractors": [
+        "It means X > Z only, ignoring Y.",
+        "It means X > Y and X > Z, but Y and Z can be in any order.",
+        "It means Y > X and Z > Y, reversing the order of comparisons."
+      ]
+    },
+    "6": {
+      "question": "Which of the following statements is true when comparing -5 and -12?",
+      "answer": "-5 is greater than -12 because -5 is closer to zero than -12.",
+      "distractors": [
+        "-12 is greater than -5 because it is a larger negative number.",
+        "-5 is less than -12 because it is closer to zero.",
+        "-12 is greater than -5 because it is farther from zero."
+      ]
+    },
+    "7": {
+      "question": "Which of the following statements is true when comparing -9 and -5 on a number line?",
+      "answer": "-9 is further left than -5, so -9 < -5",
+      "distractors": [
+        "-9 is further right than -5, so -9 > -5",
+        "-5 is further left than -9, so -5 < -9",
+        "-9 and -5 are the same distance from zero, so -9 = -5"
+      ]
+    },
+    "8": {
+      "question": "In a comparison task, you are given two values: the first (red) is 7 and the second (blue) is 5. Based on the determined relations, which option correctly maps the comparison symbols to the values?",
+      "answer": ">",
+      "distractors": [
+        "<",
+        "=",
+        "≤"
+      ]
+    }
+  },
+  "eedi_938": {
+    "0": {
+      "question": "What does the equation (-4) + □ = 3 mean?",
+      "answer": "Find the unknown number that makes both sides of the equation equal.",
+      "distractors": [
+        "Find the number that, when subtracted from -4, gives 3.",
+        "Find the number that, when multiplied by -4, equals 3.",
+        "Find the number that, when added to 3, equals -4."
+      ]
+    },
+    "1": {
+      "question": "What does the notation (-4) represent?",
+      "answer": "The integer negative four",
+      "distractors": [
+        "The absolute value of four",
+        "The opposite of positive four",
+        "The result of subtracting four from zero"
+      ]
+    },
+    "2": {
+      "question": "Which of the following operations maintains the equality when solving for an unknown in an equation?",
+      "answer": "Adding the same number to both sides of the equation",
+      "distractors": [
+        "Multiplying one side by a number and the other by a different number",
+        "Subtracting a different number from each side",
+        "Dividing only the left side by a number"
+      ]
+    },
+    "3": {
+      "question": "Which of the following expressions demonstrates adding the additive inverse to cancel a term?",
+      "answer": "5 + (-5) = 0",
+      "distractors": [
+        "5 + 5 = 10",
+        "5 - (-5) = 10",
+        "5 × (-5) = -25"
+      ]
+    },
+    "4": {
+      "question": "Which of the following statements correctly describes what can be done to both sides of an equation without changing its truth?",
+      "answer": "You may add the same number to both sides of an equation.",
+      "distractors": [
+        "You may multiply one side by a number and the other by a different number.",
+        "You may subtract a different number from each side.",
+        "You may divide only the left side by a number to simplify."
+      ]
+    },
+    "5": {
+      "question": "What is the result of adding +4 to 3?",
+      "answer": "7",
+      "distractors": [
+        "3",
+        "1",
+        "12"
+      ]
+    },
+    "6": {
+      "question": "After cancelling -4 by adding +4 to both sides of the equation, what is the value of x if the result is x = 7?",
+      "answer": "x = 7",
+      "distractors": [
+        "x = 3",
+        "x = -7",
+        "x = 11"
+      ]
+    },
+    "7": {
+      "question": "Which of the following correctly demonstrates checking a solution to the equation x + 7 = 3 by substituting x = -4?",
+      "answer": "(-4) + 7 = 3",
+      "distractors": [
+        "(-4) - 7 = 3",
+        "(-4) + 7 = -3",
+        "(-4) × 7 = 3"
+      ]
+    },
+    "8": {
+      "question": "Starting at -4 on a number line and moving +7 units to the right, where do you land?",
+      "answer": "3",
+      "distractors": [
+        "-11",
+        "-3",
+        "11"
+      ]
+    },
+    "9": {
+      "question": "After solving the equation 2x + 3 = 17, you find that x = 7. Which of the following choices correctly matches your computed value?",
+      "answer": "D. 7",
+      "distractors": [
+        "A. 5",
+        "B. 10",
+        "C. 14"
+      ]
+    }
+  },
+  "eedi_889": {
+    "0": {
+      "question": "What does the phrase 'a and b represent different numbers' mean mathematically?",
+      "answer": "a ≠ b",
+      "distractors": [
+        "a = b",
+        "a > b",
+        "a < b"
+      ]
+    },
+    "1": {
+      "question": "Which of the following equations demonstrates the commutative property of addition?",
+      "answer": "5 + 3 = 3 + 5",
+      "distractors": [
+        "5 + 3 = 8",
+        "5 - 3 = 3 - 5",
+        "5 × 3 = 3 × 5"
+      ]
+    },
+    "2": {
+      "question": "Which of the following best describes why the equation a + b = b + a is always true for ordinary numbers?",
+      "answer": "It is an example of the commutative property of addition.",
+      "distractors": [
+        "It is only true when a and b are positive integers.",
+        "It is a result of the distributive property.",
+        "It is true because multiplication is commutative."
+      ]
+    },
+    "3": {
+      "question": "Which of the following best describes how to approach the equation a − b = b − a?",
+      "answer": "Test it with specific values of a and b to see if it holds true in particular cases.",
+      "distractors": [
+        "Assume it is always true because subtraction is commutative.",
+        "Rewrite it as a + b = b + a to prove it is an identity.",
+        "Solve for a in terms of b to find a general solution."
+      ]
+    },
+    "4": {
+      "question": "If 5 = 5, which of the following equations is also true?",
+      "answer": "5 + 3 = 5 + 3",
+      "distractors": [
+        "5 + 3 = 5",
+        "5 = 5 + 3",
+        "5 + 3 = 8 + 3"
+      ]
+    },
+    "5": {
+      "question": "Starting from the equation a − b = b − a, what equation is obtained after adding b to both sides?",
+      "answer": "a = 2b − a",
+      "distractors": [
+        "a = b − a",
+        "a = 2b + a",
+        "a = b + a"
+      ]
+    },
+    "6": {
+      "question": "Solve the equation: 3x + 5 = 2x + 10 by adding the same quantity to both sides and combining like terms. Which of the following is the correct solution?",
+      "answer": "x = 5",
+      "distractors": [
+        "x = 15",
+        "x = 3",
+        "x = -5"
+      ]
+    },
+    "7": {
+      "question": "Which of the following correctly shows the result of adding a to both sides of the equation a = 2b − a?",
+      "answer": "2a = 2b",
+      "distractors": [
+        "a = 2b",
+        "a = 2b − 2a",
+        "2a = b"
+      ]
+    },
+    "8": {
+      "question": "Which of the following equations is equivalent to 6x = 18 after dividing both sides by 3?",
+      "answer": "2x = 6",
+      "distractors": [
+        "6x = 6",
+        "x = 6",
+        "6x = 54"
+      ]
+    },
+    "9": {
+      "question": "Which of the following correctly applies division by 2 to the equation 2a = 2b?",
+      "answer": "a = b",
+      "distractors": [
+        "2a = b",
+        "a = 2b",
+        "a = 4b"
+      ]
+    },
+    "10": {
+      "question": "Paul claims that for two different numbers a and b, the equation a = b holds true. Which of the following best explains why Paul’s claim must be false?",
+      "answer": "Deriving a = b contradicts the given condition that a ≠ b, so the assumption that Paul’s statement holds must be false.",
+      "distractors": [
+        "Paul’s claim is false because a and b are not integers.",
+        "Paul’s claim is false because a and b must be the same number by definition.",
+        "Paul’s claim is false because the equation a = b is only true if both numbers are zero."
+      ]
+    },
+    "11": {
+      "question": "Paul claims that for any two numbers a and b, the equation a + b = b + a always holds. Jo argues that this is only true when a and b are the same number. Which of the following is correct?",
+      "answer": "Paul’s equality is not generally true for different numbers, so only Jo is correct.",
+      "distractors": [
+        "Paul’s equality is always true regardless of the numbers, so Paul is correct.",
+        "Jo’s claim is incorrect because addition is commutative for all numbers.",
+        "Both Paul and Jo are correct because the equation holds for some numbers."
+      ]
+    }
+  },
+  "eedi_348": {
+    "0": {
+      "question": "Which of the following shapes is a rectangle?",
+      "answer": "A shape with four right angles and opposite sides that are parallel and equal in length",
+      "distractors": [
+        "A shape with four equal sides and four right angles",
+        "A shape with two pairs of parallel sides and no right angles",
+        "A shape with four sides, one pair of parallel sides, and no right angles"
+      ]
+    },
+    "1": {
+      "question": "Which of the following best describes the definition of area?",
+      "answer": "The measure of the interior region of a planar figure",
+      "distractors": [
+        "The length of the boundary of a shape",
+        "The number of sides a polygon has",
+        "The amount of space a 3D object occupies"
+      ]
+    },
+    "2": {
+      "question": "What is the formula for calculating the area of a rectangle?",
+      "answer": "length × width",
+      "distractors": [
+        "length + width",
+        "length ÷ width",
+        "length × 2 + width × 2"
+      ]
+    },
+    "3": {
+      "question": "In the diagram of a rectangle, which labeled measurement corresponds to the rectangle's width?",
+      "answer": "The label on the top or bottom side",
+      "distractors": [
+        "The label on the left or right side",
+        "The label on the diagonal",
+        "The label inside the rectangle"
+      ]
+    },
+    "4": {
+      "question": "When you multiply two lengths measured in centimeters, what unit is used to express the resulting area?",
+      "answer": "square centimeters (cm²)",
+      "distractors": [
+        "centimeters (cm)",
+        "cubic centimeters (cm³)",
+        "meters (m)"
+      ]
+    },
+    "5": {
+      "question": "Which of the following correctly applies the distributive decomposition strategy to solve 7 × 14?",
+      "answer": "7 × (10 + 4) = 7 × 10 + 7 × 4",
+      "distractors": [
+        "7 × 14 = 7 × 10 + 4",
+        "7 × 14 = (7 + 10) × (7 + 4)",
+        "7 × 14 = 7 × 10 + 7 × 14"
+      ]
+    },
+    "6": {
+      "question": "What is the result of 5 × 10 + 5 × 2?",
+      "answer": "60",
+      "distractors": [
+        "52",
+        "70",
+        "100"
+      ]
+    },
+    "7": {
+      "question": "A rectangular garden has a length of 12 meters and a width of 5 meters. What is the area of the garden, and which option correctly matches this computed result with its units?",
+      "answer": "60 square meters",
+      "distractors": [
+        "60 meters",
+        "17 square meters",
+        "60 cubic meters"
+      ]
+    },
+    "8": {
+      "question": "A rectangle has a length of 5 units and a width of 12 units. What is the area of the rectangle?",
+      "answer": "60 square units",
+      "distractors": [
+        "17 square units",
+        "29 square units",
+        "120 square units"
+      ]
+    },
+    "9": {
+      "question": "Which of the following is sufficient to calculate the area of a rectangle?",
+      "answer": "The lengths of two perpendicular sides",
+      "distractors": [
+        "The length of one side and the perimeter",
+        "The length of the diagonal and one side",
+        "The perimeter and the length of one side"
+      ]
+    }
+  },
+  "eedi_243": {
+    "0": {
+      "question": "Which of the following best defines a quadrilateral?",
+      "answer": "A polygon that has four interior angles",
+      "distractors": [
+        "A polygon with four sides and four vertices",
+        "A polygon with four right angles",
+        "A polygon with four equal sides"
+      ]
+    },
+    "1": {
+      "question": "What is the sum of the interior angles of any quadrilateral?",
+      "answer": "360°",
+      "distractors": [
+        "180°",
+        "540°",
+        "720°"
+      ]
+    },
+    "2": {
+      "question": "The angles drawn at the corners of a quadrilateral are 105°, 130°, 80°, and p°. What is the value of p°, assuming these are the four interior angles of the quadrilateral?",
+      "answer": "45°",
+      "distractors": [
+        "105°",
+        "130°",
+        "80°"
+      ]
+    },
+    "3": {
+      "question": "A quadrilateral has three known interior angles: 80°, 100°, and 95°. What is the measure of the fourth interior angle?",
+      "answer": "85°",
+      "distractors": [
+        "185°",
+        "265°",
+        "95°"
+      ]
+    },
+    "4": {
+      "question": "What is the total measure of three angles with measures 45°, 60°, and 75°?",
+      "answer": "180°",
+      "distractors": [
+        "120°",
+        "210°",
+        "90°"
+      ]
+    },
+    "5": {
+      "question": "What is the sum of the three given angles: 105° + 130° + 80°?",
+      "answer": "315°",
+      "distractors": [
+        "305°",
+        "325°",
+        "345°"
+      ]
+    },
+    "6": {
+      "question": "In a triangle, two angles measure 50° and 60°. What is the measure of the third angle?",
+      "answer": "70°",
+      "distractors": [
+        "110°",
+        "120°",
+        "50°"
+      ]
+    },
+    "7": {
+      "question": "What is the value of angle p if it completes a full circle with another angle measuring 315°?",
+      "answer": "45°",
+      "distractors": [
+        "315°",
+        "180°",
+        "135°"
+      ]
+    },
+    "8": {
+      "question": "In a right triangle, if one of the acute angles measures 45°, what can be concluded about the triangle?",
+      "answer": "It is an isosceles right triangle.",
+      "distractors": [
+        "It is an obtuse triangle.",
+        "It is a scalene triangle.",
+        "It has angles measuring 30°, 60°, and 90°."
+      ]
+    }
+  },
+  "eedi_337": {
+    "0": {
+      "question": "In a brick puzzle, the number in the top brick equals the sum of the two bricks directly beneath it. If the two bottom bricks contain the numbers 7 and 5, what number should be in the top brick?",
+      "answer": "12",
+      "distractors": [
+        "2",
+        "7",
+        "5"
+      ]
+    },
+    "1": {
+      "question": "Translate the given bricks into a numeric expression: star = 6 + (−7).",
+      "answer": "6 + (-7)",
+      "distractors": [
+        "6 - 7",
+        "6 + 7",
+        "-6 + 7"
+      ]
+    },
+    "2": {
+      "question": "What does the expression (−7) represent on a number line?",
+      "answer": "Seven units below zero",
+      "distractors": [
+        "Seven units above zero",
+        "The opposite of negative seven",
+        "The absolute value of seven"
+      ]
+    },
+    "3": {
+      "question": "Which expression is equivalent to 7 + (−3)?",
+      "answer": "7 − 3",
+      "distractors": [
+        "7 + 3",
+        "−7 + 3",
+        "−7 − 3"
+      ]
+    },
+    "4": {
+      "question": "What is the result of 7 − 6?",
+      "answer": "1",
+      "distractors": [
+        "2",
+        "0",
+        "6"
+      ]
+    },
+    "5": {
+      "question": "What is the result of subtracting 6 from 7 using the method of computing the difference of their absolute values?",
+      "answer": "1",
+      "distractors": [
+        "-1",
+        "13",
+        "0"
+      ]
+    },
+    "6": {
+      "question": "What is the result of adding -7 and 6?",
+      "answer": "-1",
+      "distractors": [
+        "1",
+        "13",
+        "-13"
+      ]
+    },
+    "7": {
+      "question": "What is the final numeric result when combining a magnitude of 1 and a negative sign?",
+      "answer": "−1",
+      "distractors": [
+        "1",
+        "−2",
+        "0"
+      ]
+    },
+    "8": {
+      "question": "After calculating the area of a rectangle with length 8 cm and width 5 cm, which answer choice correctly represents the result?",
+      "answer": "40 cm²",
+      "distractors": [
+        "8 cm",
+        "13 cm",
+        "40 cm"
+      ]
+    }
+  },
+  "eedi_217": {
+    "0": {
+      "question": "In a length diagram, three adjacent segments each labeled 'k' together cover a larger segment labeled 'm'. Which equation correctly represents the relationship between m and k?",
+      "answer": "m = 3k",
+      "distractors": [
+        "m = k + 2",
+        "m = k/3",
+        "m = k × k × k"
+      ]
+    },
+    "1": {
+      "question": "Which expression is equivalent to x + x + x?",
+      "answer": "3x",
+      "distractors": [
+        "x3",
+        "x + 3",
+        "3 + x"
+      ]
+    },
+    "2": {
+      "question": "If m = 3k, which expression is equivalent to 2m + 5?",
+      "answer": "6k + 5",
+      "distractors": [
+        "2m + 3k + 5",
+        "2(3k) + 5",
+        "3k + 5"
+      ]
+    },
+    "3": {
+      "question": "Which of the following correctly simplifies the expression (6x)/2?",
+      "answer": "3x",
+      "distractors": [
+        "6x/2",
+        "12x",
+        "x/3"
+      ]
+    },
+    "4": {
+      "question": "If you substitute k for m/3 in the inequality k < m/3 + 1, what is the resulting inequality?",
+      "answer": "k < k + 1",
+      "distractors": [
+        "k < m/3",
+        "k > k + 1",
+        "k = k + 1"
+      ]
+    },
+    "5": {
+      "question": "What happens to the inequality direction when you subtract the same quantity from both sides of an inequality?",
+      "answer": "The inequality direction is preserved.",
+      "distractors": [
+        "The inequality direction reverses.",
+        "The inequality becomes an equation.",
+        "The inequality direction depends on the sign of the subtracted quantity."
+      ]
+    },
+    "6": {
+      "question": "Which of the following correctly represents the result of subtracting k from both sides of the inequality k < k + 1?",
+      "answer": "0 < 1",
+      "distractors": [
+        "k < 1",
+        "0 < k",
+        "k < 0"
+      ]
+    },
+    "7": {
+      "question": "Which of the following statements is always true in the real number system?",
+      "answer": "0 < 1",
+      "distractors": [
+        "1 < 0",
+        "0 = 1",
+        "0 > 1"
+      ]
+    },
+    "8": {
+      "question": "Which of the following best describes the logical conclusion when simplifying an inequality leads to a universally true statement, such as 0 < 1?",
+      "answer": "The original inequality is true for all allowed values of the variables.",
+      "distractors": [
+        "The original inequality is false for all values.",
+        "The original inequality is only true for specific values.",
+        "The original inequality cannot be determined without more information."
+      ]
+    },
+    "9": {
+      "question": "Which of the following statements correctly explains why division by 3 is valid in algebraic expressions involving real numbers?",
+      "answer": "Division by 3 is valid because 3 is a non-zero real number, and division by any non-zero real number is defined under real number arithmetic.",
+      "distractors": [
+        "Division by 3 is valid because 3 is a positive integer, and positive integers always yield positive results.",
+        "Division by 3 is valid because 3 is a small number, making the result easy to compute.",
+        "Division by 3 is valid because 3 is a prime number, and prime numbers have special arithmetic properties."
+      ]
+    }
+  },
+  "eedi_884": {
+    "0": {
+      "question": "What is the formula for calculating the area of a parallelogram?",
+      "answer": "Base multiplied by the perpendicular height",
+      "distractors": [
+        "Base multiplied by the slant height",
+        "Base multiplied by the length of the adjacent side",
+        "Base multiplied by the angle between the sides"
+      ]
+    },
+    "1": {
+      "question": "In a triangle diagram, a right-angle mark is shown between the side labeled 8 cm and the base labeled m. What does this indicate about the 8 cm side?",
+      "answer": "The 8 cm side is the perpendicular height corresponding to the base m.",
+      "distractors": [
+        "The 8 cm side is the length of the base m.",
+        "The 8 cm side is the hypotenuse of the triangle.",
+        "The 8 cm side is the angle bisector of the triangle."
+      ]
+    },
+    "2": {
+      "question": "Which of the following correctly describes the units used to measure area and length?",
+      "answer": "Area is measured in square units (cm²) while lengths are measured in linear units (cm).",
+      "distractors": [
+        "Area and length are both measured in linear units (cm).",
+        "Area is measured in linear units (cm) while lengths are measured in square units (cm²).",
+        "Area and length are both measured in square units (cm²)."
+      ]
+    },
+    "3": {
+      "question": "When calculating the area of a rectangle using the formula A = base × height, which of the following is necessary for the result to be correct?",
+      "answer": "The base and height must be expressed in the same linear units.",
+      "distractors": [
+        "The base and height must both be whole numbers.",
+        "The base must be longer than the height.",
+        "The units of base and height can be different as long as they are both metric."
+      ]
+    },
+    "4": {
+      "question": "If the area of a triangle is 36 square units and the height is 9 units, what is the base?",
+      "answer": "4 units",
+      "distractors": [
+        "324 units",
+        "27 units",
+        "18 units"
+      ]
+    },
+    "5": {
+      "question": "A triangle has an area of 56 cm² and a height of 8 cm. What is the length of its base using the formula base = area ÷ height?",
+      "answer": "7 cm",
+      "distractors": [
+        "448 cm",
+        "14 cm",
+        "64 cm"
+      ]
+    },
+    "6": {
+      "question": "What is the result of 56 divided by 8?",
+      "answer": "7",
+      "distractors": [
+        "6",
+        "8",
+        "9"
+      ]
+    },
+    "7": {
+      "question": "A triangle has an area of 30 cm² and a height of 6 cm. What is the base length, and why is the unit in cm?",
+      "answer": "The base length is 10 cm because dividing area (cm²) by height (cm) gives cm as the unit.",
+      "distractors": [
+        "The base length is 5 cm because area divided by height gives a smaller unit.",
+        "The base length is 180 cm because multiplying area and height gives the correct unit.",
+        "The base length is 30 cm because area and height are both in cm, so the result stays in cm."
+      ]
+    },
+    "8": {
+      "question": "In a triangle, if the area is 21 cm² and the height is 3 cm, what is the length of the base?",
+      "answer": "7 cm",
+      "distractors": [
+        "3 cm",
+        "6 cm",
+        "14 cm"
+      ]
+    },
+    "9": {
+      "question": "A rectangle has a length of 5 cm and a width of 2 cm. What is the length of the diagonal of the rectangle?",
+      "answer": "7 cm",
+      "distractors": [
+        "6 cm",
+        "8 cm",
+        "5 cm"
+      ]
+    }
+  },
+  "eedi_623": {
+    "0": {
+      "question": "Given that x = 3 and y = 4, which expression equals 14?",
+      "answer": "2x + y + 4",
+      "distractors": [
+        "x + y + 7",
+        "3x + y",
+        "x² + y"
+      ]
+    },
+    "1": {
+      "question": "What is the value of the expression 3x + 2 when x = 4?",
+      "answer": "14",
+      "distractors": [
+        "10",
+        "12",
+        "16"
+      ]
+    },
+    "2": {
+      "question": "What does the expression -x represent in mathematics?",
+      "answer": "The additive inverse of x, which is equivalent to (-1)·x",
+      "distractors": [
+        "The reciprocal of x, which is 1/x",
+        "The absolute value of x, which is always non-negative",
+        "The square of x, which is x²"
+      ]
+    },
+    "3": {
+      "question": "What is the result of 8 - (-3)?",
+      "answer": "11",
+      "distractors": [
+        "5",
+        "-11",
+        "8 - 3"
+      ]
+    },
+    "4": {
+      "question": "What is the value of -(-7)?",
+      "answer": "7",
+      "distractors": [
+        "-7",
+        "0",
+        "14"
+      ]
+    },
+    "5": {
+      "question": "Which of the following correctly rewrites the expression 7 - 12 using the rule that subtraction can be rewritten as addition of the opposite?",
+      "answer": "7 + (-12)",
+      "distractors": [
+        "7 - (-12)",
+        "7 + 12",
+        "-7 + 12"
+      ]
+    },
+    "6": {
+      "question": "What is the result of -3.2 + 0.7?",
+      "answer": "-2.5",
+      "distractors": [
+        "-3.9",
+        "2.5",
+        "-3.27"
+      ]
+    },
+    "7": {
+      "question": "What is the result of -3.2 + (-4.7)?",
+      "answer": "-7.9",
+      "distractors": [
+        "-1.5",
+        "7.9",
+        "1.5"
+      ]
+    },
+    "8": {
+      "question": "Simplify the expression: 5 - (-3) - 2",
+      "answer": "6",
+      "distractors": [
+        "-4",
+        "0",
+        "10"
+      ]
+    },
+    "9": {
+      "question": "After calculating the values of the following expressions, which one is closest to the target value of -4.1?",
+      "answer": "-4.08",
+      "distractors": [
+        "-4.25",
+        "-3.95",
+        "-4.15"
+      ]
+    }
+  },
+  "eedi_58": {
+    "0": {
+      "question": "What is the total number of degrees in a full circle?",
+      "answer": "360 degrees",
+      "distractors": [
+        "180 degrees",
+        "90 degrees",
+        "270 degrees"
+      ]
+    },
+    "1": {
+      "question": "What fraction of a full circle is represented by a sector with a central angle of 90°?",
+      "answer": "90° / 360°",
+      "distractors": [
+        "360° / 90°",
+        "90° × 360°",
+        "90° + 360°"
+      ]
+    },
+    "2": {
+      "question": "What is the correct way to express the fraction of a circle represented by a sector with a central angle of 90 degrees?",
+      "answer": "90/360",
+      "distractors": [
+        "360/90",
+        "90/180",
+        "180/90"
+      ]
+    },
+    "3": {
+      "question": "What fraction of a full circle does a 150° sector represent?",
+      "answer": "150/360",
+      "distractors": [
+        "150/180",
+        "360/150",
+        "150/90"
+      ]
+    },
+    "4": {
+      "question": "Which of the following is the correct way to simplify the fraction 18/24 to its lowest terms?",
+      "answer": "Divide both the numerator and denominator by their greatest common divisor, which is 6, resulting in 3/4.",
+      "distractors": [
+        "Multiply both the numerator and denominator by 2 to get 36/48.",
+        "Subtract 6 from both the numerator and denominator to get 12/18.",
+        "Divide the numerator by 2 and the denominator by 3 to get 9/8."
+      ]
+    },
+    "5": {
+      "question": "What is the greatest common divisor (GCD) of 36 and 60 using prime factorization?",
+      "answer": "Multiply the shared prime factors: 2 × 2 × 3 = 12",
+      "distractors": [
+        "Add all the prime factors of both numbers: 2 + 2 + 3 + 2 + 3 + 5 = 17",
+        "Multiply all the prime factors of both numbers: 2 × 2 × 3 × 2 × 3 × 5 = 360",
+        "Take the highest power of each prime factor: 2² × 3² × 5 = 180"
+      ]
+    },
+    "6": {
+      "question": "What is the greatest common divisor (GCD) of 150 and 360 using prime factorization?",
+      "answer": "30",
+      "distractors": [
+        "15",
+        "60",
+        "90"
+      ]
+    },
+    "7": {
+      "question": "What is the simplified form of the fraction 150/360?",
+      "answer": "5/12",
+      "distractors": [
+        "15/36",
+        "3/8",
+        "10/24"
+      ]
+    },
+    "8": {
+      "question": "Which of the following is equivalent to the fraction 5/12 in its lowest terms?",
+      "answer": "5/12",
+      "distractors": [
+        "10/24",
+        "15/36",
+        "20/48"
+      ]
+    }
+  },
+  "eedi_406": {
+    "0": {
+      "question": "Which of the following best describes a linear pair of angles?",
+      "answer": "Two adjacent angles formed by a straight line that sum to 180°",
+      "distractors": [
+        "Two angles that are opposite each other and sum to 90°",
+        "Two angles that share a common side and vertex but do not necessarily sum to 180°",
+        "Two angles that are congruent and form a right angle"
+      ]
+    },
+    "1": {
+      "question": "When two lines intersect, which of the following statements is true about the angles formed?",
+      "answer": "The angles opposite each other are equal.",
+      "distractors": [
+        "The angles adjacent to each other are always equal.",
+        "The sum of all four angles is 180 degrees.",
+        "The angles on the same side of the intersection are always complementary."
+      ]
+    },
+    "2": {
+      "question": "Which of the following indicates that two labeled angles form a linear pair on a diagram?",
+      "answer": "The two angles share a common side and their non-common sides form a straight line.",
+      "distractors": [
+        "The two angles are adjacent and have the same measure.",
+        "The two angles are vertical angles and are opposite each other.",
+        "The two angles are complementary and add up to 90 degrees."
+      ]
+    },
+    "3": {
+      "question": "Which pair of angles are vertically opposite angles in the diagram where two lines intersect?",
+      "answer": "Angles that are directly across from each other at the point of intersection",
+      "distractors": [
+        "Angles that share a common side and vertex",
+        "Angles that are adjacent and form a straight line",
+        "Angles that are on the same side of the intersecting lines"
+      ]
+    },
+    "4": {
+      "question": "If two angles are supplementary and one angle measures 75°, what is the measure of the other angle?",
+      "answer": "105°",
+      "distractors": [
+        "75°",
+        "255°",
+        "65°"
+      ]
+    },
+    "5": {
+      "question": "What is the supplement of a 38° angle?",
+      "answer": "142°",
+      "distractors": [
+        "38°",
+        "42°",
+        "138°"
+      ]
+    },
+    "6": {
+      "question": "In the diagram, two lines intersect, forming four angles. If one of the angles measures 142°, what is the measure of the angle directly opposite to it?",
+      "answer": "142°",
+      "distractors": [
+        "38°",
+        "180°",
+        "46°"
+      ]
+    },
+    "7": {
+      "question": "In the diagram, two lines intersect, forming four angles. One of the angles is labeled 50°, and the angle directly opposite to it is unknown. Which angle relationship should be used to find the unknown angle?",
+      "answer": "Vertical angles are congruent, so the unknown angle is also 50°.",
+      "distractors": [
+        "Supplementary angles add to 180°, so subtract 50° from 180° to find the unknown angle.",
+        "Adjacent angles are always equal, so the unknown angle is 50°.",
+        "The unknown angle is found by adding 50° to 90°, since all angles in a triangle sum to 180°."
+      ]
+    },
+    "8": {
+      "question": "In the diagram, you are given that angle p can be determined using only the angles at its local intersection. There is also an angle labeled 57° at a different intersection in the figure. Which of the following best describes the role of the 57° angle in solving for p?",
+      "answer": "The 57° angle is extraneous information and not needed to find p.",
+      "distractors": [
+        "The 57° angle must be used to verify the value of p.",
+        "The 57° angle is equal to p and can be used directly.",
+        "The 57° angle is needed to calculate the supplementary angle to p."
+      ]
+    }
+  },
+  "eedi_311": {
+    "0": {
+      "question": "What do the notations (-9) and (-4) represent in mathematics?",
+      "answer": "The integers negative nine and negative four, where the parentheses group the negative numbers.",
+      "distractors": [
+        "The absolute values of 9 and 4",
+        "The positive integers nine and four",
+        "The subtraction of 9 and 4 from zero"
+      ]
+    },
+    "1": {
+      "question": "What does the plus sign (+) between two numbers indicate?",
+      "answer": "It means to add the two numbers together.",
+      "distractors": [
+        "It means to subtract the second number from the first.",
+        "It means to multiply the two numbers.",
+        "It means to divide the first number by the second."
+      ]
+    },
+    "2": {
+      "question": "What is the absolute value of -7?",
+      "answer": "7",
+      "distractors": [
+        "-7",
+        "0",
+        "14"
+      ]
+    },
+    "3": {
+      "question": "What is the result of adding -7 and -3?",
+      "answer": "-10",
+      "distractors": [
+        "10",
+        "-4",
+        "4"
+      ]
+    },
+    "4": {
+      "question": "What is the sum of 9 and 4?",
+      "answer": "13",
+      "distractors": [
+        "12",
+        "14",
+        "11"
+      ]
+    },
+    "5": {
+      "question": "When adding two negative integers, such as −7 and −6, what is the correct final step after summing their absolute values?",
+      "answer": "Apply the common sign (negative) to the sum of the absolute values to form the final result: −13.",
+      "distractors": [
+        "Add the absolute values and assign a positive sign to the result.",
+        "Subtract the smaller absolute value from the larger and assign the sign of the larger number.",
+        "Multiply the absolute values and keep the negative sign."
+      ]
+    },
+    "6": {
+      "question": "What is the result of adding -7 and 12? Choose the correct integer result.",
+      "answer": "5",
+      "distractors": [
+        "-5",
+        "19",
+        "-19"
+      ]
+    },
+    "7": {
+      "question": "What is the result of the expression: 5 - 18?",
+      "answer": "-13",
+      "distractors": [
+        "13",
+        "23",
+        "-5"
+      ]
+    }
+  },
+  "eedi_596": {
+    "0": {
+      "question": "In a diagram, a label 'x' is placed along the top horizontal side of a rectangle. What does 'x' represent?",
+      "answer": "The horizontal length (width) of the rectangle",
+      "distractors": [
+        "The vertical height of the rectangle",
+        "The area of the rectangle",
+        "The diagonal length of the rectangle"
+      ]
+    },
+    "1": {
+      "question": "Two vertical segments are stacked on top of each other. The bottom segment is 5 cm long, and the top segment is 3 cm long. What is the total height of the combined segments?",
+      "answer": "8 cm",
+      "distractors": [
+        "2 cm",
+        "15 cm",
+        "3 cm"
+      ]
+    },
+    "2": {
+      "question": "What is the formula for calculating the area of a rectangle?",
+      "answer": "width × height",
+      "distractors": [
+        "length + width",
+        "width ÷ height",
+        "length × width × height"
+      ]
+    },
+    "3": {
+      "question": "What is the expression for the area of a rectangle if the width is represented by y and the height is (6 + 2)?",
+      "answer": "y × (6 + 2)",
+      "distractors": [
+        "y + (6 + 2)",
+        "y ÷ (6 + 2)",
+        "y × 6 + 2"
+      ]
+    },
+    "4": {
+      "question": "What is the result of 6 + 2?",
+      "answer": "8",
+      "distractors": [
+        "6",
+        "10",
+        "4"
+      ]
+    },
+    "5": {
+      "question": "Which of the following is the correct simplified form of y × 8?",
+      "answer": "8y",
+      "distractors": [
+        "y8",
+        "8 + y",
+        "y ÷ 8"
+      ]
+    },
+    "6": {
+      "question": "Which expression is equivalent to 4×x + 3×x using the distributive property?",
+      "answer": "(4 + 3)×x",
+      "distractors": [
+        "4×(x + 3)",
+        "4×x + 3",
+        "x×(4 + 3)"
+      ]
+    },
+    "7": {
+      "question": "Which expression is equivalent to 3×(4 + x) after applying the distributive property?",
+      "answer": "12 + 3x",
+      "distractors": [
+        "3 + 4x",
+        "7 + 3x",
+        "12x + 3"
+      ]
+    },
+    "8": {
+      "question": "Which of the following expressions is algebraically equivalent to 3x + 6?",
+      "answer": "3(x + 2)",
+      "distractors": [
+        "3x + 3",
+        "6x + 3",
+        "x + 6"
+      ]
+    },
+    "9": {
+      "question": "Two students, Katie and Liam, each provide an expression for the area of a rectangle with length (x + 3) and width (x - 2). Katie says the area is x² + x - 6, while Liam says it is x² + 5x - 6. After expanding (x + 3)(x - 2), which student's expression is correct?",
+      "answer": "Only Katie",
+      "distractors": [
+        "Only Liam",
+        "Both Katie and Liam",
+        "Neither Katie nor Liam"
+      ]
+    }
+  }
+}
